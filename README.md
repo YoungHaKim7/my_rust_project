@@ -13,3 +13,9 @@ https://tokio.rs/tokio/tutorial/hello-tokio
 https://stackoverflow.com/questions/70429627/webscraping-a-list-of-items
 
 <br>
+
+# Science : Rust-cookbook
+
+https://rust-lang-nursery.github.io/rust-cookbook/science.html
+
+ <br>
