@@ -1,0 +1,1 @@
+/Users/globalyoung/Documents/Project/Github/rust_project/my_rust_project/design_patterns_rust/Idioms/2_3_constructor/default2/target/debug/default2: /Users/globalyoung/Documents/Project/Github/rust_project/my_rust_project/design_patterns_rust/Idioms/2_3_constructor/default2/src/main.rs
