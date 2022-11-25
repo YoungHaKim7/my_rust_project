@@ -17,7 +17,13 @@ https://www.ditig.com/256-colors-cheat-sheet
 
 <br>
 
-## vim documentation scroll(Vim key map)
+<hr>
+
+# vim documentation scroll(Vim key map)
+
+- CTRL-F (PageDown)
+
+- CTRL-D (PageUp)
 
 ```
 							*CTRL-E*
@@ -39,10 +45,20 @@ CTRL-D			Scroll window Downwards in the buffer.  The number of
 			lines, instead of file lines; makes a difference when
 			lines wrap}
 
+<S-Down>	or				*<S-Down>* *<kPageDown>*
+
+<PageDown>	or				*<PageDown>* *CTRL-F*
+CTRL-F			Scroll window [count] pages Forwards (downwards) in
+			the buffer.  See also 'startofline' option.
+			When there is only one window the 'window' option
+			might be used.
 ```
+
 <br>
 
 https://vimdoc.sourceforge.net/htmldoc/scroll.html#scroll-down
+
+<br>
 
 <hr>
 
