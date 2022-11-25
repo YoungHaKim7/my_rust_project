@@ -5,6 +5,10 @@
 ```
 :hi CocInlayHint ctermbg=125
 
+5 밝다
+52 어둡다
+
+
 ```
 
 - 내가 원하는 색깔 256 컬러에서 고르자 ㅎㅎ
@@ -12,6 +16,33 @@
 https://www.ditig.com/256-colors-cheat-sheet
 
 <br>
+
+## vim documentation scroll(Vim key map)
+
+```
+							*CTRL-E*
+CTRL-E			Scroll window [count] lines downwards in the buffer.
+			Mnemonic: Extra lines.
+
+
+							*CTRL-D*
+CTRL-D			Scroll window Downwards in the buffer.  The number of
+			lines comes from the 'scroll' option (default: half a
+			screen).  If [count] given, first set 'scroll' option
+			to [count].  The cursor is moved the same number of
+			lines down in the file (if possible; when lines wrap
+			and when hitting the end of the file there may be a
+			difference).  When the cursor is on the last line of
+			the buffer nothing happens and a beep is produced.
+			See also 'startofline' option.
+			{difference from vi: Vim scrolls 'scroll' screen
+			lines, instead of file lines; makes a difference when
+			lines wrap}
+
+```
+<br>
+
+https://vimdoc.sourceforge.net/htmldoc/scroll.html#scroll-down
 
 <hr>
 
