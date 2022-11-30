@@ -5,3 +5,6 @@ fn main() {
         println!("{}", some_vec[i]);
     }
 }
+
+// 출처 :
+// https://blog.naver.com/littlelib/222697048836
