@@ -1,3 +1,53 @@
+# Rust Doc std(standard Library DOC)
+
+https://doc.rust-lang.org/std/
+
+<br>
+
+##  DOCS.RS(rust 기타 crate문서들)
+
+https://docs.rs/
+
+<br>
+
+<hr>
+
+# LunarVim InLayHint _____Comment Color
+
+```
+// 어두운 빨간색
+: hi Comment guifg=#cfe2f3 guibg=#c90076
+
+
+// 밝은 분홍색 느낌
+: hi Comment guifg=#cfe2f3 guibg=#ff439f
+
+```
+
+- color-hex
+
+https://www.color-hex.com/color/ff439f
+
+<br>
+
+## LunarVim Hover 
+
+Control + Space
+
+<br>
+
+```
+Shift + K 하면 이상한 문서가 나옴
+
+Control + Space 해야 내가 생각하는 Hover 가 나온다. 
+
+rust-tools.lua 파일 참조 
+
+```
+
+<hr>
+
+
 # Vim Setting (type 빨강색으로 강조하기 칙칙한 검은색 너무 싫다.)
 
 -vim 에서
