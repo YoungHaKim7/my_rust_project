@@ -1,5 +1,6 @@
 // https://doc.rust-lang.org/book/ch12-02-reading-a-file.html
 // use std::io;
+// cargo run -- the poem.txt
 
 use std::fs;
 use std::env;
