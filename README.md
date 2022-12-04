@@ -47,6 +47,14 @@ rust-tools.lua 파일 참조
 
 <hr>
 
+-  한글러스트Rust강의_049⭐️Rust개발환경LunarVim세팅하기_LunarVim_macOS_M1_pro #lunarvim #CocInlayHint #rustinlayhint
+
+https://youtu.be/c8FX89jf4To
+
+<br>
+
+<hr>
+
 
 # Vim Setting (type 빨강색으로 강조하기 칙칙한 검은색 너무 싫다.)
 
@@ -64,6 +72,12 @@ rust-tools.lua 파일 참조
 - 내가 원하는 색깔 256 컬러에서 고르자 ㅎㅎ
 
 https://www.ditig.com/256-colors-cheat-sheet
+
+<br>
+
+-  한글러스트Rust강의_048⭐️Rust개발환경Vim세팅하기_Vim_macOS_M1_pro #vim #CocInlayHint #rustinlayhint
+
+https://youtu.be/gIUOkdMjo8o
 
 <br>
 
