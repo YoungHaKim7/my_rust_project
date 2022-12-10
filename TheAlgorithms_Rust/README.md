@@ -1,3 +1,12 @@
+# Big O Notations
+
+https://youtu.be/V6mKVRU1evU
+
+<br>
+
+<hr>
+
+
 # The Algorithms _Rust Language
 
 https://github.com/TheAlgorithms/Rust
