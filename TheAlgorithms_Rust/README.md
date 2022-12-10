@@ -4,6 +4,17 @@ https://youtu.be/V6mKVRU1evU
 
 <br>
 
+- Java Algorithms
+
+https://youtube.com/playlist?list=PLGLfVvz_LVvReUrWr94U-ZMgjYTQ538nT
+
+<br>
+
+
+- (JavaScript)Big O Notation Tutorial | Learn Big O from Andrei Neagoie [Zero To Mastery]
+
+https://youtu.be/TUiv2UgDgOQ
+
 <hr>
 
 
