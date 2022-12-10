@@ -227,3 +227,192 @@ https://stackoverflow.com/questions/70429627/webscraping-a-list-of-items
 https://rust-lang-nursery.github.io/rust-cookbook/science.html
 
  <br>
+
+# Science : Rust Blog 
+
+https://m.blog.naver.com/PostList.naver?blogId=phy2sci&categoryName=RUST%20%EC%BD%94%EB%94%A9%EC%9C%BC%EB%A1%9C%20%EB%AC%BC%EB%A6%AC%ED%95%99%EC%9D%84..&categoryNo=15&logCode=0
+
+<br>
+
+<hr>
+
+
+# Easy Rust 스승님 최고  ❤️
+
+<h1>Updating</h1>
+
+2021-12-10 : Rust 기초 강의 시작<br>
+
+> #### Rust 스승님 Git
+
+> - https://github.com/Dhghomon/easy_rust/
+
+> - 유튜브 주소(한글 강의)
+> - 1강
+> - https://www.youtube.com/watch?v=W9DO6m8JSSs
+
+<hr>
+
+> - 유튜브 주소(영어 강의)
+> - 1강
+> - https://www.youtube.com/watch?v=-lYeJeQ11OI&list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk&index=1
+
+-Easy Rust eBook
+
+- https://dhghomon.github.io/easy_rust/
+<hr>
+
+- Rust 강의 집중!!
+
+<br>
+
+# Rust PlayGround
+
+[https://play.rust-lang.org/](https://play.rust-lang.org/)
+
+<br>
+
+<hr>
+
+<br>
+
+# Rust vs C# primitive type
+
+- 영어 출처
+https://learn.microsoft.com/en-us/dotnet/api/system.type.isprimitive?view=net-7.0
+
+<br>
+
+ 8bit = 1 bytes
+
+<br>
+
+<table border="1">
+    <tr>
+    <td colspan="3" align="center">Rust vs C#</td>
+    </tr>
+    <tr align="center">
+        <td>분류(Type) </td>
+        <td>Rust</td>
+        <td>C# </td>
+    </tr>
+    <tr align="center">
+        <td>Char<br>char</td>
+        <td>i8<br>(size: 4 bytes)</td>
+        <td>char<br>(size: 2 bytes)</td>
+    </tr>
+    <tr align="center">
+        <td>signed integer<br>8bit</td>
+        <td>i8<br>(size: 1 bytes)</td>
+        <td>sbyte<br>(size: 1 bytes)</td>
+    </tr>
+    <tr align="center">
+        <td>signed integer<br>16bit</td>
+        <td>i16<br>(size: 2 bytes)</td>
+        <td>short<br>(size: 2 bytes)</td>
+    </tr>
+    <tr align="center">
+        <td>signed integer<br>32bit</td>
+        <td>i32<br>(size: 4 bytes)</td>
+        <td>int<br>(size: 4 bytes)</td>
+    </tr>
+    <tr align="center">
+        <td>signed integer<br>64bit</td>
+        <td>i64<br>(size: 8 bytes)</td>
+        <td>long</td>
+    </tr>
+    <tr align="center">
+        <td>--</td>
+        <td>--</td>
+        <td>--</td>
+    </tr>
+    <tr align="center">
+        <td>unsigned integer<br>8bit</td>
+        <td>u8</td>
+        <td>byte</td>
+    </tr>
+    <tr align="center">
+        <td>unsigned integer<br>16bit</td>
+        <td>u16</td>
+        <td>ushort</td>
+    </tr>
+    <tr align="center">
+        <td>unsigned integer<br>32bit</td>
+        <td>u32</td>
+        <td>uint</td>
+    </tr>
+    <tr align="center">
+        <td>unsigned integer<br>64bit</td>
+        <td>u64</td>
+        <td>ulong</td>
+    </tr>
+    <tr align="center">
+        <td>--</td>
+        <td>--</td>
+        <td>--</td>
+    </tr>
+    <tr align="center">
+        <td>floating point<br>부동 소수점<br>32 bit</td>
+        <td>f32<br>(size: 4bytes)</td>
+        <td>float<br>(size: 4bytes)</td>
+    </tr>
+    <tr align="center">
+        <td>floating point<br>부동 소수점<br>64 bit</td>
+        <td>f64<br>(size: 8bytes)</td>
+        <td>double<br>(size: 8bytes)</td>
+    </tr>
+    <tr align="center">
+        <td>--</td>
+        <td>--</td>
+        <td>--</td>
+    </tr>
+    <tr align="center">
+        <td>Decimal<br>128 bit</td>
+        <td>f128</td>
+        <td>decimal<br>(size: 16bytes)</td>
+    </tr>
+</table>
+
+<br>
+
+- C# byte 용량정리 잘됨
+
+https://condor.depaul.edu/sjost/nwdp/notes/cs1/CSDatatypes.htm
+
+<br>
+
+- C# char
+
+https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/builtin-types/char
+
+- C# decimal
+
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types
+
+
+<br>
+
+<hr>
+
+- Rust types
+
+https://dhghomon.github.io/easy_rust/Chapter_7.html
+
+<br>
+
+- 러스트변수용량계산하기_Calculating the variable capacity_Java Hello World_Print#rust
+
+https://youtu.be/ncmbWBs2-WA
+
+
+<br>
+
+- Rust f32, f64 byte 잘 나옴
+
+https://docs.rs/fsize/latest/fsize/
+
+<br>
+
+<hr>
+
+<br>
