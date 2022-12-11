@@ -1,3 +1,11 @@
+# My Desmos Graphs
+
+https://www.desmos.com/calculator/av0xfemnoh
+
+<br>
+
+<hr>
+
 # Big O Notations
 
 https://youtu.be/V6mKVRU1evU
