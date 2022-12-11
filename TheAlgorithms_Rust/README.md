@@ -18,6 +18,15 @@ https://youtu.be/TUiv2UgDgOQ
 <hr>
 
 
+#  Visualizing Data Structures and Algorithms with VS Code
+
+https://youtu.be/ElbGMWA6wA4
+
+<br>
+
+<hr>
+
+
 # The Algorithms _Rust Language
 
 https://github.com/TheAlgorithms/Rust
