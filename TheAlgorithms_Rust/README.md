@@ -4,6 +4,10 @@ https://www.desmos.com/calculator/iuapuknd57
 
 <br>
 
+- Big Oh(O) vs Big Omega(Ω) vs Big Theta(θ) notations | Asymptotic Analysis of Algorithms with Example
+
+https://youtu.be/1tfdr1Iv6JA
+
 <hr>
 
 # Big O Notations
