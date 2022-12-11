@@ -1,6 +1,6 @@
 # My Desmos Graphs
 
-https://www.desmos.com/calculator/av0xfemnoh
+https://www.desmos.com/calculator/iuapuknd57
 
 <br>
 
