@@ -51,3 +51,13 @@ This program creates some random data and uses the KMeansClassifier type from th
 
 
 https://athemathmo.github.io/rusty-machine/doc/rusty_machine/index.html
+
+<br>
+
+<hr>
+
+# How to Build a Machine Learning Model in Rust
+
+https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/
+
+<br>
