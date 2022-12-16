@@ -1,0 +1,1 @@
+/Users/globalyoung/Documents/test/test/my_rust_project/Rust_Tutorial_Full_course/exercise/error_management/target/debug/error_management: /Users/globalyoung/Documents/test/test/my_rust_project/Rust_Tutorial_Full_course/exercise/error_management/src/main.rs
