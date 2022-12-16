@@ -416,3 +416,11 @@ https://docs.rs/fsize/latest/fsize/
 <hr>
 
 <br>
+
+<hr>
+
+# Rust Tutorial Full Course
+
+https://youtu.be/ygL_xcavzQ4
+
+<br>
