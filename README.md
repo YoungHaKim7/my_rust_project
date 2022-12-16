@@ -20,6 +20,16 @@ https://rust-unofficial.github.io/too-many-lists/index.html
 
 <hr>
 
+<br>
+
+# Rust Design Patterns
+
+https://rust-unofficial.github.io/patterns/intro.html
+
+<br>
+
+<hr>
+
 # LunarVim InLayHint _____Comment Color
 
 ```
