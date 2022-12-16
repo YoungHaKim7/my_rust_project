@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "a_Singly_Linked_List_in_Rust_Ryan_Levick"
+name = "singly_linked"
 version = "0.1.0"
