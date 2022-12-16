@@ -1,5 +1,0 @@
-/Users/globalyoung/Documents/test/test/my_rust_project/The_Algorithms_Rust/Data_structures/a_Singly_Linked_List_in_Rust_Ryan_Levick/target/debug/deps/a_Singly_Linked_List_in_Rust_Ryan_Levick-61d2abed5466ce71.rmeta: src/main.rs
-
-/Users/globalyoung/Documents/test/test/my_rust_project/The_Algorithms_Rust/Data_structures/a_Singly_Linked_List_in_Rust_Ryan_Levick/target/debug/deps/a_Singly_Linked_List_in_Rust_Ryan_Levick-61d2abed5466ce71.d: src/main.rs
-
-src/main.rs:
