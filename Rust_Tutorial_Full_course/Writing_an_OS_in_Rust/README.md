@@ -27,6 +27,8 @@ https://github.com/Andy-Python-Programmer/aero
 
 <br>
 
+https://www.reddit.com/r/rust/comments/ytrpss/aero_a_new_modern_os_made_in_rust_and_is_now_able/
+
 <hr>
 
 
@@ -34,6 +36,5 @@ https://github.com/Andy-Python-Programmer/aero
 
 <br>
 
-https://www.reddit.com/r/rust/comments/ytrpss/aero_a_new_modern_os_made_in_rust_and_is_now_able/
 
 <br>
