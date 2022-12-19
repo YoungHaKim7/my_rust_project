@@ -1,1 +1,0 @@
-/Users/globalyoung/Documents/test/test/my_rust_project/exercise/simple_strings/simple_str/target/debug/simple_str: /Users/globalyoung/Documents/test/test/my_rust_project/exercise/simple_strings/simple_str/src/main.rs
