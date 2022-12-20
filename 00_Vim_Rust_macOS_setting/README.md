@@ -34,3 +34,47 @@ https://github.com/YoungHaKim7/rust_vim_setting
         <td></td>
     </tr>
 </table>
+
+# WindowsOS Setting
+
+- part1
+
+WindowsOS_윈도우_개발자세팅_파워셀_Vim_Rust_VSCode_VS_WindowsSetting_Windows_Terminal_PowerShell #settings
+
+https://youtu.be/TQQbT9W_M0A
+
+<br>
+
+- part2 
+
+WindowsOS_윈도우_개발자세팅part2_NeoVim & Vim_Rust_VS_WindowsSetting_Windows_Terminal_PowerShell #settings
+
+https://youtu.be/ClChV_1SAho
+
+- part3
+
+WindowsOS_윈도우_Vim개발자세팅part3_surround_vim #surround #settings
+
+https://youtu.be/hgeHORtxod0
+
+<br>
+
+<hr>
+
+
+# macOS Setting
+
+<br>
+
+- 한글러스트Rust강의_048⭐️Rust개발환경Vim세팅하기_Vim_macOS_M1_pro #vim #CocInlayHint #rustinlayhint
+
+https://youtu.be/gIUOkdMjo8o
+
+<br>
+
+- 한글러스트Rust강의_049⭐️Rust개발환경LunarVim세팅하기_LunarVim_macOS_M1_pro #lunarvim #CocInlayHint #rustinlayhint
+
+https://youtu.be/c8FX89jf4To
+
+<hr>
+
