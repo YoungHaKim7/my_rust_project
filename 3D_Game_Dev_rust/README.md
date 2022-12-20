@@ -49,7 +49,7 @@ https://youtube.com/playlist?list=PLcMveqN_07maeDuKrsf5GYMDB5obTWoWg
         <td><a href="https://github.com/bevyengine/bevy">https://github.com/bevyengine/bevy</a></td>
     </tr>
     <tr align="center">
-        <td><a gref="https://github.com/FyroxEngine/Fyrox">RG3D_Fyrox</td></a>
+        <td><a href="https://github.com/FyroxEngine/Fyrox">RG3D_Fyrox<br>3D game</td></a>
         <td>한글러스트Rust강의_046⭐️Rust_3d_RGP_game만들기3D_Game RG3D_Fyrox - a modern Rust Game engine2</td>
         <td><a href="https://youtu.be/-GDO5ykuFoo">https://youtu.be/-GDO5ykuFoo</a></td>
     </tr>
