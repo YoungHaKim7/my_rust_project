@@ -26,3 +26,9 @@
 - Rust 강의 집중!!
 
 <br>
+
+#  easy rust 보고 내가 공부하려고 만든 Github
+
+https://github.com/YoungHaKim7/testeasyrust
+
+<br>
