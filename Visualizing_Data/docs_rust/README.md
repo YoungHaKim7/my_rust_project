@@ -19,6 +19,16 @@ https://frehberg.com/2022/12/docs-as-code-mermaid-inline-diagrams/
 
 
 ```mermaid
+graph LR
+    s([Source]) --> a[[aquamarine]]
+    r[[rustdoc]] --> f([Docs w/ Mermaid!])
+    subgraph rustc[Rust Compiler]
+    a -. inject mermaid.js .-> r
+    end
+```
+
+
+```
 #[cfg_attr(doc, aquamarine::aquamarine)]
 /// A function showcasing aquamarine defaults
 ///
