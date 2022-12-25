@@ -1,1 +1,0 @@
-/Users/globalyoung/Documents/test/test/rust/my_rust_project/07_Data_Science_Rust/exercise/ndarray01/target/debug/ndarray01: /Users/globalyoung/Documents/test/test/rust/my_rust_project/07_Data_Science_Rust/exercise/ndarray01/src/main.rs
