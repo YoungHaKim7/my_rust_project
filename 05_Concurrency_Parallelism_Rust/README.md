@@ -37,7 +37,7 @@ https://youtu.be/PR1Pv2mp5Ms
         <td><a href="https://youtu.be/tDVCPc-EGZQ">True async_171 Easy Rust in Korean</a></td>
     </tr>
     <tr align="center">
-        <td rowspan="3">Parallelism</td></a>
+        <td rowspan="4">Parallelism</td></a>
         <td>rayon(Rust Crates.io)<br>한글러스트Rust강의_023_Parallelism기초part3_truth_table_sort vs sort_unstable속도비교 #parallel #rayon</td>
         <td><a href="https://youtu.be/9qyj6b5i274">parallelism 기초</a></td>
     </tr>
@@ -46,7 +46,11 @@ https://youtu.be/PR1Pv2mp5Ms
         <td><a href="https://youtu.be/x1RLowpOWUE">parallelism 기초2</a></td>
     </tr>
     <tr align="center">
-        <td>Rust wgpu Graphics Programming Tutorial<br># rayon</td>
+        <td>rayon-rs</td>
+        <td><a href="https://github.com/rayon-rs/rayon">parallelism<br>rayon기초1</a></td>
+    </tr>
+    <tr align="center">
+        <td>Rust wgpu Graphics Programming Tutorial</td>
         <td><a href="https://youtube.com/playlist?list=PL_UrKDEhALdJS0VrLPn7dqC5A4W1vCAUT">Rust wgpu Graphics Programming Tutorial</a></td>
     </tr>
 </table>
