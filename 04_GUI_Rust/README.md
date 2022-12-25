@@ -8,6 +8,24 @@ https://github.com/YoungHaKim7/druid-example
 
 <br>
 
+<hr>
+
+- (egui) egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
+https://github.com/emilk/egui
+
+<br>
+
+<hr>
+
+- (iced) A cross-platform GUI library for Rust, inspired by Elm
+
+https://github.com/iced-rs/iced
+
+<hr>
+
+<br>
+
 <table border="1">
     <tr>
     <td colspan="3" align="center">Rust Vim & gVim & LunarVim Setting</td>
