@@ -1,3 +1,19 @@
+# Natural Language Processing for Rust 
+
+https://github.com/lexi-sh/rs-natural
+
+<br>
+
+<hr>
+
+# This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀 
+
+https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning
+
+<br>
+
+<hr>
+
 # Here is an example of a simple machine learning program written in the Rust programming language:
 
 -  GPT3
