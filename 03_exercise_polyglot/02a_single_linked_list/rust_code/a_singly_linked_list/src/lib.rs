@@ -2,6 +2,12 @@ struct LinkedList {
     head: Link,
 }
 
+impl LinkedList {
+    fn empty() -> LinkedList {
+        LinkedList { head: None }
+    }
+}
+
 struct Node {
     element: u32,
     next: Link,
