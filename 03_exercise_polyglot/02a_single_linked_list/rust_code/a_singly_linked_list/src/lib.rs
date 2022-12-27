@@ -19,13 +19,10 @@ impl LinkedList {
 
     fn pop(&mut self) -> Option<u32> {
         let old_head = self.head.take();
-        match old_head {
-            Some(n) => {
-                self.head = n.next;
-                Some(n.element)
-            }
-            None => None,
-        }
+        old_head.map(|n| {
+            self.head = n.next;
+            n.element
+        })
     }
 }
 
