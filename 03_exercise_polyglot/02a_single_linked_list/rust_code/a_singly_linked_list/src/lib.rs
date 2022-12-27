@@ -4,10 +4,10 @@ struct LinkedList {
 
 struct Node {
     element: u32,
-    next: List,
+    next: Link,
 }
 
-enum List {
+enum Link {
     Empty,
     NonEmpty(Box<Node>),
 }
@@ -18,9 +18,9 @@ mod tests {
 
     #[test]
     fn it_works() {
-        let list = List::NonEmpty(Box::new(Node {
+        let list = Link::NonEmpty(Box::new(Node {
             element: 1024,
-            next: List::Empty,
+            next: Link::Empty,
         }));
     }
 }
