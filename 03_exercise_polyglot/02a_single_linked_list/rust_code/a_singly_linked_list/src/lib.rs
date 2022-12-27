@@ -16,20 +16,7 @@ impl LinkedList {
 
         self.head = Some(new_head);
 
-        //        match self.head {
-        //            Node => {
-        //                self.head = Some(Box::new(Node {
-        //                    element,
-        //                    next: None,
-        //                }))
-        //            }
-        //            Some(n) => {
-        //                let new_head = Some(Box::new(Node {
-        //                    element,
-        //                    next: Some(n),
-        //                }));
-        //                self.head = new_head;
-        //        }
+        // fn pop(&mut self) -> Option<u32> {}
     }
 }
 
