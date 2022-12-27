@@ -8,7 +8,15 @@ impl LinkedList {
     }
 
     fn push(&mut self, element: u32) {
-        todo!("Implement push!")
+        match &self.head {
+            Node => {
+                self.head = Some(Box::new(Node {
+                    element,
+                    next: None,
+                }))
+            }
+            Some(_) => todo!(),
+        }
     }
 }
 
