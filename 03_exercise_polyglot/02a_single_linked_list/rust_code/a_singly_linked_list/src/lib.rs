@@ -6,6 +6,10 @@ impl LinkedList {
     fn empty() -> LinkedList {
         LinkedList { head: None }
     }
+
+    fn push(&mut self, element: u32) {
+        todo!("Implement push!")
+    }
 }
 
 struct Node {
@@ -21,6 +25,7 @@ mod tests {
 
     #[test]
     fn it_works() {
-        let list = LinkedList::empty();
+        let mut list = LinkedList::empty();
+        list.push(1024);
     }
 }
