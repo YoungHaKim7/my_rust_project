@@ -24,6 +24,14 @@ impl LinkedList {
             n.element
         })
     }
+
+    // fn peek(&mut self) -> &u32 {
+    //     let old_head = self.head.take();
+    //     old_head.map(|n| {
+    //         self.head = n.next;
+    //         n.element
+    //     })
+    // }
 }
 
 struct Node {
