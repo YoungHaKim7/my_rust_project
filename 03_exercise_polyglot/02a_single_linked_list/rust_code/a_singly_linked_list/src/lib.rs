@@ -15,9 +15,11 @@ mod tests {
 
     #[test]
     fn it_works() {
-        let list = Link::Some(Box::new(Node {
-            element: 1024,
-            next: Link::None,
-        }));
+        let list = LinkedList {
+            head: Some(Box::new(Node {
+                element: 1024,
+                next: None,
+            })),
+        };
     }
 }
