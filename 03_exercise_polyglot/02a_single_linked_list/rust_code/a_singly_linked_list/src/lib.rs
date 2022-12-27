@@ -8,15 +8,26 @@ impl LinkedList {
     }
 
     fn push(&mut self, element: u32) {
-        match &self.head {
-            Node => {
-                self.head = Some(Box::new(Node {
-                    element,
-                    next: None,
-                }))
-            }
-            Some(_) => todo!(),
-        }
+        let old_head = std::mem::replace(&mut self.head, None);
+        let new_head = Box::new(Node {
+            element,
+            next: old_head,
+        });
+
+        //        match self.head {
+        //            Node => {
+        //                self.head = Some(Box::new(Node {
+        //                    element,
+        //                    next: None,
+        //                }))
+        //            }
+        //            Some(n) => {
+        //                let new_head = Some(Box::new(Node {
+        //                    element,
+        //                    next: Some(n),
+        //                }));
+        //                self.head = new_head;
+        //        }
     }
 }
 
