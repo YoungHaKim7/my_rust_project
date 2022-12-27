@@ -1,6 +1,15 @@
-enum Node {
+struct LinkedList {
+    head: Link,
+}
+
+struct Node {
+    element: u32,
+    next: List,
+}
+
+enum List {
     Empty,
-    NonEmpty(u32, Box<Node>),
+    NonEmpty(Box<Node>),
 }
 
 #[cfg(test)]
@@ -9,7 +18,9 @@ mod tests {
 
     #[test]
     fn it_works() {
-        let node = &Node::Empty;
-        let list = Node::NonEmpty(1091, Box::new(Node::Empty));
+        let list = List::NonEmpty(Box::new(Node {
+            element: 1024,
+            next: List::Empty,
+        }));
     }
 }
