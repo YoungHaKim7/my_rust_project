@@ -1,3 +1,50 @@
+# Unicode Vim
+
+- Ex commands:
+
+```
+:UnicodeTable    - Print Unicode Table in new window
+:Digraphs        - Search for specific digraph char
+:UnicodeSearch   - Search for specific unicode char
+:UnicodeSearch!  - Search for specific unicode char (and add at current cursor position)
+:UnicodeName     - Identify character under cursor (like ga command)
+:DownloadUnicode - Download (or update) Unicode data
+:UnicodeCache    - Create cache file
+
+```
+<hr>
+
+<br>
+
+- Normal mode commands:
+```
+<C-X><C-G>  - Complete Digraph char
+<C-X><C-Z>  - Complete Unicode char
+<F4>        - Combine characters into digraphs
+
+```
+
+<hr>
+
+<br>
+
+- Scripting Functions:
+
+```
+unicode#FindUnicodeBy() - Find unicode characters
+unicode#FindDigraphBy() - Find Digraph char
+unicode#Digraph()       - Returns digraph char
+unicode#UnicodeName()   - Identifies unicode character (by value)
+```
+
+https://github.com/chrisbra/unicode.vim
+
+<hr>
+
+<br>
+
+<hr>
+
 # AstroVim(AstroNeoVim)
 
 https://astronvim.github.io/

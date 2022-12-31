@@ -60,6 +60,8 @@ Plugin 'junegunn/goyo.vim'                           " Distraction-free viewing
 Plugin 'junegunn/limelight.vim'                      " Hyperfocus on a range
 Plugin 'junegunn/vim-emoji'                          " Vim needs emojis!
 
+" Unicode Vim
+Plugin 'chrisbra/unicode.vim'
 
 call vundle#end()
 
