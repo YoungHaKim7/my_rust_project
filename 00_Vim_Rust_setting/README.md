@@ -1,4 +1,4 @@
-# AstroVim
+# AstroVim(AstroNeoVim)
 
 https://astronvim.github.io/
 
@@ -26,7 +26,7 @@ https://github.com/AstroNvim/AstroNvim
 
 <br>
 
-# LunarVim
+# LunarVim(LunarNeoVim)
 
 - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 
