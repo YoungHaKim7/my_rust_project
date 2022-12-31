@@ -26,6 +26,14 @@ https://github.com/AstroNvim/AstroNvim
 
 <br>
 
+# LunarVim
+
+- 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+
+https://www.lunarvim.org/
+
+https://github.com/LunarVim/LunarVim
+
 <hr>
 
 # Rust Vim Setting
