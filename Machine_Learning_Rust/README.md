@@ -1,3 +1,47 @@
+# How to Build a Machine Learning Model in Rust
+
+https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/
+
+# Rust Machine Learning Book
+
+https://rust-ml.github.io/book/chapter_1.html
+
+<br>
+
+# Unicode (Vim Plug-in)
+
+https://github.com/chrisbra/unicode.vim
+
+- Ex commands:
+
+```
+:UnicodeTable    - Print Unicode Table in new window
+:Digraphs        - Search for specific digraph char
+:UnicodeSearch   - Search for specific unicode char
+:UnicodeSearch!  - Search for specific unicode char (and add at current cursor position)
+:UnicodeName     - Identify character under cursor (like ga command)
+:DownloadUnicode - Download (or update) Unicode data
+:UnicodeCache    - Create cache file
+
+```
+<br>
+
+- Normal mode commands:
+
+```
+
+<C-X><C-G>  - Complete Digraph char
+<C-X><C-Z>  - Complete Unicode char
+<F4>        - Combine characters into digraphs
+Scripting Functions:
+unicode#FindUnicodeBy() - Find unicode characters
+unicode#FindDigraphBy() - Find Digraph char
+unicode#Digraph()       - Returns digraph char
+unicode#UnicodeName()   - Identifies unicode character (by value)
+```
+
+<hr>
+
 # Natural Language Processing for Rust 
 
 https://github.com/lexi-sh/rs-natural
