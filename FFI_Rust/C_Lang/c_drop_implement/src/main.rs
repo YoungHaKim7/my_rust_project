@@ -24,11 +24,11 @@ extern "C" fn __fini_hello() {
 
 #[link_section = "__DATA,__mod_init_func"]
 #[used]
-pub static __init_section: extern "C" fn() = __init_hello;
+pub static __INIT_SECTION: extern "C" fn() = __init_hello;
 
 #[link_section = "__DATA,__mod_init_func"]
 #[used]
-pub static __fini_section: extern "C" fn() = __fini_hello;
+pub static __FINI_SECTION: extern "C" fn() = __fini_hello;
 
 fn main() {
     unsafe {
