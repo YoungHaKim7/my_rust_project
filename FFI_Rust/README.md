@@ -1,3 +1,20 @@
+#  Rust FFI and bindgen: Integrating Embedded C Code in Rust
+
+https://apollolabsblog.hashnode.dev/rust-ffi-and-bindgen-integrating-embedded-c-code-in-rust
+
+
+##  Crust of Rust: Build Scripts and Foreign-Function Interfaces (FFI)
+
+https://youtu.be/pePqWoTnSmQ
+
+<br>
+
+<hr>
+
+<br>
+
+
+
 # The Rust FFI Omnibus
 
 http://jakegoulding.com/rust-ffi-omnibus/
