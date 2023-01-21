@@ -1,6 +1,10 @@
-# Tutorial Rust
+# Rust 공식 Learn 채널
 
-https://github.com/GuillaumeGomez/tuto-rust-fr
+https://www.rust-lang.org/learn
+
+# Rust 공식 eBook eng.
+
+https://doc.rust-lang.org/book/
 
 # Tutorial Rust 2\_\_\_Easy Rust 스승님 최고 ❤️
 
@@ -88,3 +92,9 @@ https://ebookfoundation.github.io/free-programming-books/
 <br>
 
 <hr>
+
+<br>
+
+# Tutorial Rust
+
+https://github.com/GuillaumeGomez/tuto-rust-fr
