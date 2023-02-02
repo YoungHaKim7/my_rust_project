@@ -1,3 +1,12 @@
+# Render Pipelines in wgpu and Rust (Game Dev.)
+
+https://whoisryosuke.com/blog/2022/render-pipelines-in-wgpu-and-rust/
+
+<br>
+
+<hr>
+
+
 # GPT 3 에게 물어봄 ㅋ
 
 - Here is an example of a simple 3D game program written in the Rust programming language:
