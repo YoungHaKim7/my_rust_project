@@ -1,3 +1,11 @@
+# My Rust___Vim_& NeoVim Etc ___Setting
+
+https://github.com/YoungHaKim7/rust_vim_setting
+
+<br>
+
+<hr>
+
 # Unicode Vim
 
 - Ex commands:
