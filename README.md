@@ -12,6 +12,11 @@ https://docs.rs/
 
 <hr>
 
+# awesome rust
+https://github.com/awesome-rust-com/awesome-rust
+
+<br>
+
 # Learn Rust With Entirely Too Many Linked Lists
 
 https://rust-unofficial.github.io/too-many-lists/index.html
