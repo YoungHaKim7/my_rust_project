@@ -34,6 +34,13 @@ https://doc.rust-lang.org/book/
 
 <br>
 
+
+# awesome rust
+
+https://github.com/awesome-rust-com/awesome-rust
+
+<br>
+
 # Rustlings
 
 # Presentation by Rust
