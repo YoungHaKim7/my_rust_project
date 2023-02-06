@@ -10,7 +10,7 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
 https://github.com/YoungHaKim7/druid-example
 
 - (egui)
-<br>egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+<br>egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native<br>
 https://github.com/emilk/egui
 
 - (iced) A cross-platform GUI library for Rust, inspired by Elm
