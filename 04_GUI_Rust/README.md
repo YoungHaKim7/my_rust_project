@@ -1,10 +1,3 @@
-# The Rust UI-Toolkit.
-
-https://github.com/redox-os/orbtk
-
-<hr>
-
-<br>
 
 
 # Rust A Simple GUI Library
@@ -13,27 +6,35 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
 
 # Rust GUI
 
-<br>
 
-- Druid GUI
+    - Druid GUI
 
 https://github.com/YoungHaKim7/druid-example
 
 <br>
 
-<hr>
 
-- (egui) egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+    - (egui) egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 
-https://github.com/emilk/egui
+    https://github.com/emilk/egui
 
 <br>
 
 <hr>
 
-- (iced) A cross-platform GUI library for Rust, inspired by Elm
 
-https://github.com/iced-rs/iced
+    - (iced) A cross-platform GUI library for Rust, inspired by Elm
+
+    https://github.com/iced-rs/iced
+
+<hr>
+
+<br>
+
+
+    - The Rust UI-Toolkit.
+
+    https://github.com/redox-os/orbtk
 
 <hr>
 
