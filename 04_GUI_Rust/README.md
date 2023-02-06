@@ -6,35 +6,24 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
 
 # Rust GUI
 
-
-    - Druid GUI
-
+- Druid GUI<br>
 https://github.com/YoungHaKim7/druid-example
 
-<br>
+- (egui)
+<br>egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+https://github.com/emilk/egui
 
+- (iced) A cross-platform GUI library for Rust, inspired by Elm
+<br>https://github.com/iced-rs/iced
 
-    - (egui) egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-
-    https://github.com/emilk/egui
 
 <br>
 
 <hr>
 
+## The Rust UI-Toolkit.<br>
 
-    - (iced) A cross-platform GUI library for Rust, inspired by Elm
-
-    https://github.com/iced-rs/iced
-
-<hr>
-
-<br>
-
-
-    - The Rust UI-Toolkit.
-
-    https://github.com/redox-os/orbtk
+https://github.com/redox-os/orbtk
 
 <hr>
 
