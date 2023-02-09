@@ -27,6 +27,7 @@ https://github.com/emilk/egui
 <br>https://github.com/redox-os/orbtk
 
 - Rust UI design toolkit.
+<br>This project was originally a fork of Druid that emerged from discussions I had with Raph Levien and Colin Rofls about what it would look like to turn Druid into a foundational library.
 <br>https://github.com/PoignardAzur/masonry-rs
 
 <br>
