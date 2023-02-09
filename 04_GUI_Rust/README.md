@@ -23,7 +23,7 @@ https://github.com/emilk/egui
 
 ## The Rust UI-Toolkit.<br>
 
-- UI-Toolkit
+- The Orbital Widget Toolkit is a cross-platform (G)UI toolkit for building scalable user interfaces with the programming language Rust
 <br>https://github.com/redox-os/orbtk
 
 - Rust UI design toolkit.
