@@ -1,6 +1,23 @@
 # Result: 
 
 ```
+PS D:\wasm01> cargo --version
+cargo 1.67.0 (8ecd4f20a 2023-01-10)
+
+PS D:\wasm01> rustup target add wasm32-unknown-unknown --toolchain stable
+
+info: downloading component 'rust-std' for 'wasm32-unknown-unknown'
+info: installing component 'rust-std' for 'wasm32-unknown-unknown'
+ 10.9 MiB /  18.9 MiB ( 57 %)   0 B/s in  1s ETA: Unknown                                                          18.9 MiB /  18.9 MiB (100 %)  10.9
+MiB/s in  1s ETA:  0s
+
+PS D:\wasm01> cargo install wasm-bindgen-cli
+
+PS D:\wasm01> cargo new wasm_rust --lib
+
+
+
+
 PS D:> ls
 
     Directory: D:\wasm_rust
