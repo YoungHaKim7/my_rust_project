@@ -277,7 +277,7 @@ d----        2023-02-09  오후 5:43                target
 PS D:\wasm_rust> wasm-bindgen .\target\wasm32-unknown-unknown\debug\wasm_rust.wasm --out-dir .
 PS D:\wasm_rust> ls
 
-    Directory: D:\young_project\rust_lang\my_rust_project\10_WASM_Rust\hello_wasm01\wasm_rust
+    Directory: D:\\wasm_rust
 
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
