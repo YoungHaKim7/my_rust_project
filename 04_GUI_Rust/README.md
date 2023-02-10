@@ -1,4 +1,10 @@
+# Rust vs C++ 총정리됨
 
+https://maulingmonkey.com/guide/cpp-vs-rust/
+
+<br>
+
+<hr>
 
 # Rust A Simple GUI Library
 
