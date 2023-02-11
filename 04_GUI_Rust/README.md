@@ -25,7 +25,12 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
 
     - https://github.com/emilk/egui
 
-- (iced) A cross-platform GUI library for Rust, inspired by Elm
+- iced[![crates.io](https://img.shields.io/crates/v/iced.svg)](https://crates.io/crates/iced)
+![GitHubiced](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)
+![icedDownloads](https://img.shields.io/crates/d/iced.svg)<a href="https://github.com/iced-rs/iced"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218261031-993fc430-233f-4c30-bfe4-c0186faa608c.png" /></a>
+![icedstar](https://img.shields.io/github/stars/iced-rs/iced.svg)
+
+    - (iced) A cross-platform GUI library for Rust, inspired by Elm
 
     - https://github.com/iced-rs/iced
 
