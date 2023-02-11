@@ -20,6 +20,8 @@
 ![GitHubAmethyst](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)
 ![amethystDownloads](https://img.shields.io/crates/d/amethyst.svg)<a href="https://github.com/amethyst/amethyst"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218261031-993fc430-233f-4c30-bfe4-c0186faa608c.png" /></a>![amethystar](https://img.shields.io/github/stars/amethyst/amethyst.svg)
 
+  - Data-oriented and data-driven game engine written in Rust
+  
   - https://github.com/amethyst/amethyst
 
   - https://book.amethyst.rs/book/stable/intro
