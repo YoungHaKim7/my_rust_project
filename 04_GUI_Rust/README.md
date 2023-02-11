@@ -48,13 +48,21 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
 
 ## The Rust UI-Toolkit.<br>
 
-- The Orbital Widget Toolkit is a cross-platform (G)UI toolkit for building scalable user interfaces with the programming language Rust
-<br>It is with great sadness that I announce that OrbTk is sunsetting
-<br>https://github.com/redox-os/orbtk
-
 - Rust UI design toolkit.
 <br>This project was originally a fork of Druid that emerged from discussions I had with Raph Levien and Colin Rofls about what it would look like to turn Druid into a foundational library.
 <br>https://github.com/PoignardAzur/masonry-rs
+
+
+- Orbtk[![crates.io](https://img.shields.io/crates/v/orbtk.svg)](https://crates.io/crates/orbtk)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![icedDownloads](https://img.shields.io/crates/d/orbtk.svg)<a href="https://github.com/redox-os/orbtk"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218261031-993fc430-233f-4c30-bfe4-c0186faa608c.png" /></a>
+![icedstar](https://img.shields.io/github/stars/redox-os/orbtk.svg)
+
+    - The Orbital Widget Toolkit is a cross-platform (G)UI toolkit for building scalable user interfaces with the programming language Rust
+
+    - It is with great sadness that I announce that OrbTk is sunsetting
+
+    - https://github.com/redox-os/orbtk
 
 <br>
 
