@@ -38,7 +38,8 @@ https://doc.rust-lang.org/book/
 
 ## A collection of lints to catch common mistakes and improve your Rust code.
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/rust-lang/rust-clippy/actions?query=workflow%3A"Clippy+Test+(bors)"+event%3Apush+branch%3Aauto/badge.svg)
+
 
 https://doc.rust-lang.org/nightly/clippy/index.html
 
