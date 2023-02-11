@@ -9,7 +9,7 @@
   
   - https://bevyengine.org/
 
-- Fyrox[![crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox)
+- Fyrox[![crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)![fyroxDownloads](https://img.shields.io/crates/d/fyrox.svg)
 
   - https://github.com/FyroxEngine/Fyrox
 
