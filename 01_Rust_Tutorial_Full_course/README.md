@@ -2,6 +2,8 @@
 
 https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
+https://shields.io/category/license
+
 # Rust 공식 Learn 채널
 
 https://www.rust-lang.org/learn
