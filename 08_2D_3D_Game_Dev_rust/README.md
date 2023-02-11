@@ -32,6 +32,9 @@
 
   - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
 
+    - Wgpu user
+      - Bevy
+
   - https://github.com/gfx-rs/wgpu
 
   - https://wgpu.rs/
