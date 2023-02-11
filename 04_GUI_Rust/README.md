@@ -53,7 +53,7 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
 <br>https://github.com/PoignardAzur/masonry-rs
 
 
-- Orbtk[![crates.io](https://img.shields.io/crates/v/orbtk.svg)](https://crates.io/crates/orbtk)
+- Orbtk[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)[![crates.io](https://img.shields.io/crates/v/orbtk.svg)](https://crates.io/crates/orbtk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![icedDownloads](https://img.shields.io/crates/d/orbtk.svg)<a href="https://github.com/redox-os/orbtk"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218261031-993fc430-233f-4c30-bfe4-c0186faa608c.png" /></a>
 ![icedstar](https://img.shields.io/github/stars/redox-os/orbtk.svg)
