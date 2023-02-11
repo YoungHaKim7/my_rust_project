@@ -3,6 +3,8 @@
 - Bevy[![crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)![License+Bevy](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)![bevyDownloads](https://img.shields.io/crates/d/bevy.svg)![bevystar(https://ghbtns.com/github-btn.html?user=twbs&repo=bevyengine/bevy&type=star&count=true)](https://github.com/bevyengine)
 ![test](https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true)
 
+[![Follow Mohamed El-Qassas GitHub](https://avatars.githubusercontent.com/u/49816567?s=96&v=4)](https://github.com/melqassas/)
+
 Bevy is a refreshingly simple data-driven game engine built in Rust. It is free and open-source forever!
 
 https://github.com/bevyengine/bevy
