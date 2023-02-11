@@ -38,7 +38,8 @@ https://doc.rust-lang.org/book/
 
 ## A collection of lints to catch common mistakes and improve your Rust code.
 
-![example branch parameter](https://github.com/rust-lang/rust-clippy/actions/workflows/clippy_bors.yml/badge.svg?branch=feature-1)
+![example branch parameter](https://github.com/rust-lang/rust-clippy/actions/workflows/clippy_bors.yml/badge.svg?event=push)
+
 
 https://doc.rust-lang.org/nightly/clippy/index.html
 
