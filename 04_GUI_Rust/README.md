@@ -18,7 +18,8 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
 
 - (egui)[![crates.io](https://img.shields.io/crates/v/egui.svg)](https://crates.io/crates/egui)
 ![GitHubWgpu](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)
-![wgpuDownloads](https://img.shields.io/crates/d/egui.svg)<a href="https://github.com/emilk/egui"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218261031-993fc430-233f-4c30-bfe4-c0186faa608c.png" /></a>![eguiustar](https://img.shields.io/github/starsemilk/egui.svg)
+![wgpuDownloads](https://img.shields.io/crates/d/egui.svg)<a href="https://github.com/emilk/egui"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218261031-993fc430-233f-4c30-bfe4-c0186faa608c.png" /></a>
+![eguiustar](https://img.shields.io/github/stars/emilk/egui.svg)
 
     - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 
