@@ -12,7 +12,7 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
 
 # Rust GUI
 
-- Druid GUI<br>
+- Druid GUI[![crates.io](https://img.shields.io/crates/v/druid.svg)](https://crates.io/crates/druid)<br>
 https://github.com/YoungHaKim7/druid-example
 
 - (egui)
