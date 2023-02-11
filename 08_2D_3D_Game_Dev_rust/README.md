@@ -16,9 +16,11 @@
 
   - https://fyrox.rs/
 
-- Amethyst
+- Amethyst![crates.io](https://img.shields.io/crates/v/amethyst.svg)](https://crates.io/crates/amethyst)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)![fyroxDownloads](https://img.shields.io/crates/d/amethyst.svg)<a href="https://github.com/amethyst/amethyst"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218261031-993fc430-233f-4c30-bfe4-c0186faa608c.png" /></a>![fyroxstar](https://img.shields.io/github/stars/amethyst/amethyst.svg)
 
-https://book.amethyst.rs/book/stable/intro
+  - https://github.com/amethyst/amethyst
+
+  - https://book.amethyst.rs/book/stable/intro
 
 - wgpu
 
