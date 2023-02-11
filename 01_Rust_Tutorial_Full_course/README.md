@@ -34,7 +34,7 @@ https://doc.rust-lang.org/book/
 
 <br>
 
-# clippy 
+# Clippy 
 
 ## A collection of lints to catch common mistakes and improve your Rust code.
 
