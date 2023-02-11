@@ -14,6 +14,8 @@
 
   - https://github.com/FyroxEngine/Fyrox
 
+  - https://fyrox.rs/
+
 - Amethyst
 
 https://book.amethyst.rs/book/stable/intro
