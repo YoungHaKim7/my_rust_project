@@ -1,16 +1,16 @@
 # Rust Game Dev
 
-1. Bevy[![crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)![License+Bevy](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)![bevyDownloads](https://img.shields.io/crates/d/bevy.svg)
+- Bevy[![crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)![License+Bevy](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)![bevyDownloads](https://img.shields.io/crates/d/bevy.svg)
 
 Bevy is a refreshingly simple data-driven game engine built in Rust. It is free and open-source forever!
 
 https://github.com/bevyengine/bevy
 
-2. Amethyst
+- Amethyst
 
 https://book.amethyst.rs/book/stable/intro
 
-3. wgpu
+- wgpu
 
 <br>
 
