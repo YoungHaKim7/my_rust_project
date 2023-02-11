@@ -38,6 +38,9 @@ https://doc.rust-lang.org/book/
 
 ## A collection of lints to catch common mistakes and improve your Rust code.
 
+<a href="https://helix-editor.com/"><img align="left" alt="helix" width="20px" src="https://github.com/rust-lang/rust-clippy/actions?query=workflow%3A%22Clippy+Test+(bors)%22+event%3Apush+branch%3Aauto" /></a>
+
+
 https://doc.rust-lang.org/nightly/clippy/index.html
 
 
