@@ -6,6 +6,9 @@
   - Bevy is a refreshingly simple data-driven game engine built in Rust. It is free and open-source forever!
 
   - https://github.com/bevyengine/bevy
+  
+  - https://bevyengine.org/
+
 
 - Amethyst
 
