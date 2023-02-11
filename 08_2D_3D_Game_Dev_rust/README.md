@@ -1,6 +1,8 @@
 # Rust Game Dev
 
-1. Bevy
+1. Bevy[![crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
+
+https://github.com/bevyengine/bevy
 
 2. Amethyst
 
