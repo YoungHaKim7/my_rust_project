@@ -34,6 +34,17 @@ https://doc.rust-lang.org/book/
 
 <br>
 
+# clippy 
+
+## A collection of lints to catch common mistakes and improve your Rust code.
+
+https://doc.rust-lang.org/nightly/clippy/index.html
+
+
+https://rust-lang.github.io/rust-clippy/master/index.html
+
+<br>
+
 
 # awesome rust
 
