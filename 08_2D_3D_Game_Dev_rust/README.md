@@ -26,7 +26,7 @@
 
   - https://book.amethyst.rs/book/stable/intro
 
-- wgpu[![crates.io](https://img.shields.io/crates/v/wgpu.svg)](https://crates.io/crates/wgpu)
+- Wgpu[![crates.io](https://img.shields.io/crates/v/wgpu.svg)](https://crates.io/crates/wgpu)
 ![GitHubWgpu](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)
 ![wgpuDownloads](https://img.shields.io/crates/d/wgpu.svg)<a href="https://github.com/gfx-rs/wgpu"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218261031-993fc430-233f-4c30-bfe4-c0186faa608c.png" /></a>![wgpustar](https://img.shields.io/github/stars/gfx-rs/wgpu.svg)
 
@@ -34,6 +34,26 @@
 
     - Wgpu user
       - Bevy
+      - WASM nbodysim
+      - nbodysim
+      - Veloren
+      - Dotrix
+      - Vange-rs
+      - Harmony
+      - Blub
+      - Brawlib
+      - GLX
+      - Neothesia
+      - Sky renderer
+      - grass field
+      - Hectic-rs
+      - Richter
+      - Göld
+      - Egregoria
+      - Sandbox
+      - Terra
+      - ampli-Fe
+      - ENSnano
 
   - https://github.com/gfx-rs/wgpu
 
