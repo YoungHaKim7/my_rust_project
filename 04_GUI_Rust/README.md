@@ -33,7 +33,7 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
     - https://github.com/emilk/egui
 
 - iced[![crates.io](https://img.shields.io/crates/v/iced.svg)](https://crates.io/crates/iced)
-![GitHubiced](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![icedDownloads](https://img.shields.io/crates/d/iced.svg)<a href="https://github.com/iced-rs/iced"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218261031-993fc430-233f-4c30-bfe4-c0186faa608c.png" /></a>
 ![icedstar](https://img.shields.io/github/stars/iced-rs/iced.svg)
 
