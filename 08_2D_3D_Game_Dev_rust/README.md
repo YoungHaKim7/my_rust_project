@@ -1,6 +1,6 @@
 # Rust Game Dev
 
-1. Bevy[![crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)![License+Bevy](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)[!bevyDownloads](https://img.shields.io/crates/d/bevy.svg)
+1. Bevy[![crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)![License+Bevy](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)![bevyDownloads](https://img.shields.io/crates/d/bevy.svg)
 
 https://github.com/bevyengine/bevy
 
