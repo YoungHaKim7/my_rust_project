@@ -24,7 +24,7 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
     - https://github.com/YoungHaKim7/druid-example
 
 - (egui)[![crates.io](https://img.shields.io/crates/v/egui.svg)](https://crates.io/crates/egui)
-![GitHubWgpu](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)
+- ![Crates.io](https://img.shields.io/crates/l/egui)
 ![wgpuDownloads](https://img.shields.io/crates/d/egui.svg)<a href="https://github.com/emilk/egui"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
 ![eguiustar](https://img.shields.io/github/stars/emilk/egui.svg)
 
@@ -33,7 +33,7 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
     - https://github.com/emilk/egui
 
 - iced[![crates.io](https://img.shields.io/crates/v/iced.svg)](https://crates.io/crates/iced)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Crates.io](https://img.shields.io/crates/l/iced)
 ![icedDownloads](https://img.shields.io/crates/d/iced.svg)<a href="https://github.com/iced-rs/iced"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
 ![icedstar](https://img.shields.io/github/stars/iced-rs/iced.svg)
 
@@ -48,7 +48,7 @@ https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.ht
 
 ## The Rust UI-Toolkit.<br>
 
-- Masonry-rs[![crates.io](https://img.shields.io/crates/v/masonry.svg)](https://crates.io/crates/masonry)[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)![druidDownloads](https://img.shields.io/crates/d/masonry.svg)<a href="https://github.com/PoignardAzur/masonry-rs"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+- Masonry-rs[![crates.io](https://img.shields.io/crates/v/masonry.svg)](https://crates.io/crates/masonry)![Crates.io](https://img.shields.io/crates/l/masonry)![druidDownloads](https://img.shields.io/crates/d/masonry.svg)<a href="https://github.com/PoignardAzur/masonry-rs"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
 ![druidstar](https://img.shields.io/github/stars/PoignardAzur/masonry-rs.svg)
 
     - Rust UI design toolkit.
