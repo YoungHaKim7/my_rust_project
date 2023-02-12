@@ -1,14 +1,12 @@
 # Rayon
 
-  - rayon[![crates.io](https://img.shields.io/crates/v/tokio.svg)](https://crates.io/crates/tokio)
+  - rayon[![crates.io](https://img.shields.io/crates/v/rayon.svg)](https://crates.io/crates/rayon)
   ![GitHubWgpu](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)
-![tokioDownloads](https://img.shields.io/crates/d/tokio.svg)<a href="https://github.com/tokio-rs/tokio"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
-![tokiostar](https://img.shields.io/github/stars/tokio-rs/tokio.svg)
+![tokioDownloads](https://img.shields.io/crates/d/rayon.svg)<a href="https://github.com/rayon-rs/rayon"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+![tokiostar](https://img.shields.io/github/stars/rayon-rs/rayon.svg)
 
 
-  - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-
-  - https://tokio.rs/
+  - A test
 
   - https://github.com/rayon-rs/rayon
   
