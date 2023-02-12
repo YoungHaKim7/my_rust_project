@@ -1,7 +1,7 @@
 # criterion.rs
 
-- criterion.rs[![crates.io](https://img.shields.io/crates/v/criterion.svg)](https://crates.io/crates/wasm-bindgen)![Crates.io](https://img.shields.io/crates/l/wasm-bindgen)![druidDownloads](https://img.shields.io/crates/d/druid.svg)<a href="rustwasm/wasm-bindgen"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
-![druidstar](https://img.shields.io/github/stars/rustwasm/wasm-bindgen.svg)
+- criterion.rs[![crates.io](https://img.shields.io/crates/v/criterion.svg)](https://crates.io/crates/criterion)![Crates.io](https://img.shields.io/crates/l/criterion)![druidDownloads](https://img.shields.io/crates/d/criterion.svg)<a href="[rustwasm/wasm-bindgen](https://github.com/bheisler/criterion.rs)"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+![druidstar](https://img.shields.io/github/stars/bheisler/criterion.rs.svg)
 
 # Statistics-driven benchmarking library for Rust
 
