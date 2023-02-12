@@ -1,3 +1,7 @@
+# Rust 공식채널
+
+https://www.rust-lang.org/what/embedded
+
 # Writing an Embedded Operating System in Rust
 
 https://youtu.be/l1ujHfWoiOU
