@@ -1,3 +1,7 @@
+# Rust-embedded eBook
+
+https://docs.rust-embedded.org/book/intro/index.html
+
 # Rust 공식채널
 
 https://www.rust-lang.org/what/embedded
