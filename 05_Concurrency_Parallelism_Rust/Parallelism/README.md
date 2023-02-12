@@ -12,6 +12,10 @@
 
   - https://github.com/rayon-rs/rayon
   
+# Rayon API Doc 
+
+  - https://docs.rs/rayon/latest/rayon/
+  
 # Rayon Blog
   
   - https://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/
