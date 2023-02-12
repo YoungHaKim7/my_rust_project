@@ -6,7 +6,7 @@
 ![tokiostar](https://img.shields.io/github/stars/rayon-rs/rayon.svg)
 
 
-  - A test
+  - Rayon: A data parallelism library for Rust
 
   - https://github.com/rayon-rs/rayon
   
