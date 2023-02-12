@@ -1,3 +1,7 @@
+# Machine_Learning_My_ Rust Project
+
+https://github.com/YoungHaKim7/Machine_Learning_Rust
+
 # How to Build a Machine Learning Model in Rust
 
 https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/
