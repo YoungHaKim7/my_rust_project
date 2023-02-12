@@ -1,3 +1,7 @@
+# WASM-bindgen
+
+- wasm-bindgen 
+
 # WASM + Rust Tutorial
 
 https://freemasen.github.io/wasm_tutorial/
