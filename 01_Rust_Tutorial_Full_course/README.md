@@ -1,12 +1,16 @@
-# Lincence라이센스 표시 
+# Lincence라이센스 표시
 
 https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
 https://shields.io/category/license
 
-# downloads 기타 등등 다 
+# downloads 기타 등등 다
 
 https://shields.io/category/downloads
+
+# Rust eBook(Freely available programming books, 무료 배울 수 있음)
+
+https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#rust
 
 # Rust 공식 Learn 채널
 
@@ -44,20 +48,17 @@ https://doc.rust-lang.org/book/
 
 <br>
 
-# Clippy 
+# Clippy
 
 ## A collection of lints to catch common mistakes and improve your Rust code.
 
 ![example branch parameter](https://github.com/rust-lang/rust-clippy/actions/workflows/clippy_bors.yml/badge.svg?event=push)
 
-
 https://doc.rust-lang.org/nightly/clippy/index.html
-
 
 https://rust-lang.github.io/rust-clippy/master/index.html
 
 <br>
-
 
 # awesome rust
 
