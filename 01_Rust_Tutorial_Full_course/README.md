@@ -10,6 +10,12 @@ Get-ChildItem -Filter ./target -Recurse -Force | Remove-Item -Recurse -Force
 dir .\ -r -i "target"
 ```
 
+# Save space by cleaning non-essential files from software projects.
+
+- Cleans unneeded directories and files from your system.
+
+  - https://github.com/tbillington/kondo
+
 # Lincence라이센스 표시
 
 https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
