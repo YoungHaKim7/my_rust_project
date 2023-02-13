@@ -26,6 +26,10 @@ https://maulingmonkey.com/guide/cpp-vs-rust/
 
 https://google.github.io/comprehensive-rust/std/box.html
 
+## Rust for C++ developers - What you need to know to get rolling with crates - Pavel Yosifovich
+
+- https://youtu.be/k7nAtrwPhR8
+
 <br>
 
 # How I Wrote a Modern C++ Library in Rust
