@@ -152,6 +152,8 @@
     </tr>
 </table>
 
+![Screenshot 2023-01-21 at 10 56 20 AM](https://user-images.githubusercontent.com/67513038/213838895-8194e55a-abe4-472e-8ed4-f34e7770425a.png)
+
 - Rust vs C++ 총정리됨
   https://maulingmonkey.com/guide/cpp-vs-rust/
 
