@@ -147,7 +147,7 @@
     </tr>
     <tr align="center">
         <td></td>
-        <td>Mutable reference means no other references can exist at that scope</td>
+        <td>Mutable reference means no other<br> references can exist at that scope</td>
         <td></td>
     </tr>
 </table>
