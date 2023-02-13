@@ -1,3 +1,5 @@
+// https://doc.rust-lang.org/stable/std/io/trait.BufRead.html#method.read_line
+
 use std::io::{self, BufRead};
 
 fn main() {

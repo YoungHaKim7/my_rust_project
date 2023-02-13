@@ -1,3 +1,13 @@
+# 윈도우 파웨셀에서 원하는 폴더 강제로 지우기(pwsh.exe) WindowsOS에서
+
+- rm -Force 지우고 싶은 폴더
+
+```
+
+rm -Force .\read_line03
+
+```
+
 # 윈도우 파워셀에서 러스트 target폴더 지우기(pwsh.exe) WindowsOS에서
 
 ```
