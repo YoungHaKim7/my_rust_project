@@ -260,7 +260,7 @@ https://m.blog.naver.com/PostList.naver?blogId=phy2sci&categoryName=RUST%20%EC%B
 <hr>
 
 
-# Easy Rust 스승님 최고  ❤️
+# Easy Rust (My Teacher스승님 최고  ❤️)
 
 <h1>Updating</h1>
 
@@ -276,7 +276,7 @@ https://m.blog.naver.com/PostList.naver?blogId=phy2sci&categoryName=RUST%20%EC%B
 
 <hr>
 
-> - 유튜브 주소(영어 강의)
+> - 유튜브 주소(My Teacher영어 강의English Ver.)
 > - 1강
 > - https://www.youtube.com/watch?v=-lYeJeQ11OI&list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk&index=1
 
