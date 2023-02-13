@@ -111,6 +111,10 @@
 
 <hr>
 
+https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung/220319_Rust_Ownership
+
+https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung/
+
 <br>
 
 ## Ownership and Borrowing
