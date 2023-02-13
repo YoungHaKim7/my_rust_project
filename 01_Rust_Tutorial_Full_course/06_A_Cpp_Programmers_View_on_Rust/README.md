@@ -154,6 +154,11 @@
 
 ![Screenshot 2023-01-21 at 10 56 20 AM](https://user-images.githubusercontent.com/67513038/213838895-8194e55a-abe4-472e-8ed4-f34e7770425a.png)
 
+<td>22-6-07(tue.)</td>
+<td><a href="https://youtu.be/__7cMs4gqSU">자바(Java)*vs*러스트*비교하면서 러스트오너쉽개념이해*기본syntax연습하기part3\_#java #rust #ownership</td>
+
+<br>
+
 - Rust vs C++ 총정리됨
   https://maulingmonkey.com/guide/cpp-vs-rust/
 
