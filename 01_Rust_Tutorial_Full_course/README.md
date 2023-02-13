@@ -3,9 +3,16 @@
 
 - Rust Programmers, if the Rust commuity wants to hide horrors, fight to prevent a major catastrophe, and unite humanity so we don't have to feel pain or be alone, that's not language evangelism. That's language evangelionism.
 
-![1212121212](https://user-images.githubusercontent.com/67513038/218509435-245e1cd7-14a4-4028-a744-8bb599a072ae.jpg)
+
 
 # Befor we get stated... Some tips | Ryan Levick
+
+![1212121212](https://user-images.githubusercontent.com/67513038/218509435-245e1cd7-14a4-4028-a744-8bb599a072ae.jpg)
+
+
+    - Rust Before Main - Ryan Levick - Rust Linz, July 2022
+
+    - https://youtu.be/q8irLfXwaFM
 
   - Computers are not magic
  
@@ -31,7 +38,6 @@
  
   - 불행하게도, 설명이 항상 최선은 아니다
  
-    - Rust Before Main - Ryan Levick - Rust Linz, July 2022
 
 <hr>
 
