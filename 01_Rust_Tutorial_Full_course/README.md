@@ -10,7 +10,7 @@
 ![1212121212](https://user-images.githubusercontent.com/67513038/218509435-245e1cd7-14a4-4028-a744-8bb599a072ae.jpg)
 
 
-    - Rust Before Main - Ryan Levick - Rust Linz, July 2022
+  - Rust Before Main - Ryan Levick - Rust Linz, July 2022
 
     - https://youtu.be/q8irLfXwaFM
 
