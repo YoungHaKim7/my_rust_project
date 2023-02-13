@@ -4,6 +4,12 @@
 Get-ChildItem -Filter ./target -Recurse -Force | Remove-Item -Recurse -Force
 ```
 
+# 윈도우 파워셀에서 러스트 target폴더 찾기(pwsh.exe) WindowsOS에서
+
+```
+dir .\ -r -i "target"
+```
+
 # Lincence라이센스 표시
 
 https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
