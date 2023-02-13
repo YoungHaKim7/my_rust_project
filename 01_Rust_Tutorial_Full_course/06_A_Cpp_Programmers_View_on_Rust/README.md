@@ -19,10 +19,55 @@
         <td>Rc<br>use std::rc::Rc;</td>
         <td>std::shared_ptr</td>
     </tr>
+    <tr align="center">
+        <td>Primitive types</td>
+        <td>Primitive types<br>(+associated methods)</td>
+        <td>Primitive types</td>
+    </tr>
+    <tr align="center">
+        <td>Structs / class</td>
+        <td>Structs</td>
+        <td>Structs / class</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Enumerations</td>
+        <td>Enumerations</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Enumerations!</td>
+        <td>Unions</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Traits</td>
+        <td>(Interfaces)</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Trait Inheritance</td>
+        <td>Inheritance</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Polymorphism</td>
+        <td>Polymorphism</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Traits!</td>
+        <td>Attributes</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Generics</td>
+        <td>Templates</td>
+    </tr>
 </table>
 
 - Rust vs C++ 총정리됨
-https://maulingmonkey.com/guide/cpp-vs-rust/
+  https://maulingmonkey.com/guide/cpp-vs-rust/
 
 https://google.github.io/comprehensive-rust/std/box.html
 
@@ -48,7 +93,6 @@ https://youtu.be/5pdRnva-DQ4
 
 <hr>
 
-
 # Rust for C++ programmers
 
 https://github.com/nrc/r4cppp
@@ -56,7 +100,3 @@ https://github.com/nrc/r4cppp
 <br>
 
 <hr>
-
-
-
-
