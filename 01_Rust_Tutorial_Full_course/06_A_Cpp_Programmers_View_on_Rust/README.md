@@ -1,5 +1,9 @@
 # Rust vs C++
 
+## Rust for C++ developers - What you need to know to get rolling with crates - Pavel Yosifovich
+
+- https://youtu.be/k7nAtrwPhR8
+
 <table border="1">
     <tr>
     <td colspan="3" align="center"></a></td>
@@ -154,8 +158,45 @@
 
 ![Screenshot 2023-01-21 at 10 56 20 AM](https://user-images.githubusercontent.com/67513038/213838895-8194e55a-abe4-472e-8ed4-f34e7770425a.png)
 
-<td>22-6-07(tue.)</td>
-<td><a href="https://youtu.be/__7cMs4gqSU">자바(Java)*vs*러스트*비교하면서 러스트오너쉽개념이해*기본syntax연습하기part3\_#java #rust #ownership</td>
+22-6-07(tue.)
+<a href="https://youtu.be/__7cMs4gqSU">자바(Java)*vs*러스트*비교하면서 러스트오너쉽개념이해*기본syntax연습하기part3\_#java #rust #ownership</a>
+
+<hr>
+
+<br>
+
+## External Packages
+
+<table border="1">
+    <tr>
+    <td colspan="3" align="center"></a></td>
+    </tr>
+    <tr align="center">
+        <td>✨</td>
+        <td>Rust<a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a></td>
+        <td>C++<a href="https://en.cppreference.com/w/"><img align="left" alt="cpp" width="26px" src="https://user-images.githubusercontent.com/67513038/218466731-1c232ee4-7fe7-4c73-a201-c129e16959c2.png" /></a></td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Fast growing ecosystem</td>
+        <td>Large ecosystem</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Built-in package manager<br>(Cargo)</td>
+        <td>The boost libraries</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Each package is a<br>"Crate"</td>
+        <td>Many other libraries out there</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Central crates repository<br>(crates.io)</td>
+        <td>No single repository<br>(Microsoft has Nuget)</td>
+    </tr>
+</table>
 
 <br>
 
@@ -163,10 +204,6 @@
   https://maulingmonkey.com/guide/cpp-vs-rust/
 
 https://google.github.io/comprehensive-rust/std/box.html
-
-## Rust for C++ developers - What you need to know to get rolling with crates - Pavel Yosifovich
-
-- https://youtu.be/k7nAtrwPhR8
 
 <br>
 
