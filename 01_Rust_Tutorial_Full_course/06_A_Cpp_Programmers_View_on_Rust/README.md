@@ -72,6 +72,8 @@
 
 <br>
 
+## The Ownership Model
+
 <table border="1">
     <tr>
     <td colspan="3" align="center"></a></td>
@@ -82,9 +84,24 @@
         <td>C++<a href="https://en.cppreference.com/w/"><img align="left" alt="cpp" width="26px" src="https://user-images.githubusercontent.com/67513038/218466731-1c232ee4-7fe7-4c73-a201-c129e16959c2.png" /></a></td>
     </tr>
     <tr align="center">
-        <td>Box</td>
-        <td>Box<br></td>
-        <td>Boxstd::unique_ptrC++</td>
+        <td></td>
+        <td>Single owner</td>
+        <td>Single owner <br>or<br>Shared ownership</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Explicit</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Compiler enforced<br>- a.k.a "Borrow Checker"</td>
+        <td>Developer managed</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Assignment means "move"<br>- Unless type implements Copy trait<br>- Borrowing</td>
+        <td>Assignment and copy<br>construction mean "copy"<br>-- Unless R-value provided or<br>std::move used explicitly<br>(and there is a move ctor/assignment)</td>
     </tr>
 </table>
 
