@@ -437,4 +437,8 @@ https://youtu.be/OrL0DEChwpQ
 ## Rust's Option❤️in One Figure(내 블로그에 정리)
 
 https://economiceco.tistory.com/m/6140
+          
+# ★★★Rust Tutorials 로드맵(Road Map)첫시작!-★★★(총정리)Rustacean이 되어 보자!!Let's go!(내 블로그에 정리)
+
+https://economiceco.tistory.com/8614
 
