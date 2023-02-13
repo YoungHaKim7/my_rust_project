@@ -1,3 +1,9 @@
+# 윈도우 파워셀에서 러스트 target폴더 지우기(pwsh.exe) WindowsOS에서
+
+```
+Get-ChildItem -Filter ./target -Recurse -Force | Remove-Item -Recurse -Force
+```
+
 # Lincence라이센스 표시
 
 https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
