@@ -20,7 +20,7 @@ https://www.rust-lang.org/learn
 
 https://doc.rust-lang.org/book/
 
-# Tutorial Rust 2\_\_\_Easy Rust (My teacher스승님 최고 ❤️)
+# Tutorial Rust \_\_\_Easy Rust (My teacher스승님 최고 ❤️)
 
 <h1>Updating</h1>
 
