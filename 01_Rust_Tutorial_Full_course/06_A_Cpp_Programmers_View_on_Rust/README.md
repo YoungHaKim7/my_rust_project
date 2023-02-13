@@ -1,5 +1,7 @@
 # Rust vs C++
 
+![C++_Logo svg](https://user-images.githubusercontent.com/67513038/218466731-1c232ee4-7fe7-4c73-a201-c129e16959c2.png)
+
 <table border="1">
     <tr>
     <td colspan="3" align="center"></a></td>
