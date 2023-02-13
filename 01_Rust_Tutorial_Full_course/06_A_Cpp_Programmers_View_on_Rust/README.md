@@ -198,7 +198,49 @@
     </tr>
 </table>
 
+# Summary
+
+- Rust and C++ complete for (roughly) the same space
+
+  - Both are native, statically typed, emphasize zero cost abstraction, stack over heap, etc.
+
+- Rust has unique model for safety
+
+  - "Borrow checker"
+
+- C++ leaves safety to developers
+
+  - Does provide types to help
+
+- Rust supports pattern matching and functional style
+
+  - Surprisingly rich in functionality and libraries
+
+- give rust a try!
+
+# Summary (한글)
+
+- Rust과 C++는 (대략) 동일한 공간에 대해 완성됩니다
+
+  - 둘 다 네이티브, 정적 유형, 제로 비용 추상화, 스택 오버 힙 등을 강조합니다.
+
+- Rust는 안전을 위한 독특한 모델을 가지고 있다
+
+  - "차용 검사기"Borrow checker
+
+- C++는 개발자에게 안전을 맡긴다
+
+  - 도움이 되는 유형을 제공합니다
+
+- 러스트는 패턴 매칭 및 기능적 스타일을 지원합니다
+
+  - 놀라울 정도로 풍부한 기능과 라이브러리
+
+- Rust 놀라운 세계를 경험해 보세요 Rust 한 번 시도해봐!
+
 <br>
+
+  <br>
 
 - Rust vs C++ 총정리됨
   https://maulingmonkey.com/guide/cpp-vs-rust/
