@@ -1,6 +1,6 @@
-# Isabella Muerte(@slurpsmadrips)
+# Isabella Muerte(@slurpsmadrips) August 1, 2019
 
-- Rust Programmers, if the Rust commuity wants to hide horros, fight to prevent a major catastrophe, and unite humanity so we don't have to feel pain or be alone, that's not language evangelism. That's language evangelionism.
+- Rust Programmers, if the Rust commuity wants to hide horrors, fight to prevent a major catastrophe, and unite humanity so we don't have to feel pain or be alone, that's not language evangelism. That's language evangelionism.
 
 <hr>
 
