@@ -3,6 +3,36 @@
 
 - Rust Programmers, if the Rust commuity wants to hide horrors, fight to prevent a major catastrophe, and unite humanity so we don't have to feel pain or be alone, that's not language evangelism. That's language evangelionism.
 
+![1212121212](https://user-images.githubusercontent.com/67513038/218509435-245e1cd7-14a4-4028-a744-8bb599a072ae.jpg)
+
+# Befor we get stated... Some tips | Ryan Levick
+
+  - Computers are not magic
+ 
+  - All of this is understandable
+ 
+  - Everything you see here was made by humans
+ 
+  - It's all a mix of deliberate choice & choice & random circumstance
+ 
+  - At any given point, it's not always easy to tell which ?
+ 
+  - Unfortunately, explanations are not always the best
+ 
+  - 컴퓨터는 마법이 아니다
+ 
+  - 이 모든 것은 이해할 수 있다
+ 
+  - 여기 보이는 모든 것은 인간이 만든 것이다
+ 
+  - 그것은 모두 의도적인 선택과 선택 그리고 무작위적인 상황의 혼합이다
+ 
+  - 어느 시점에서든 어느 것이 항상 구별하기 쉽지는 않다?
+ 
+  - 불행하게도, 설명이 항상 최선은 아니다
+ 
+    - Rust Before Main - Ryan Levick - Rust Linz, July 2022
+
 <hr>
 
 <br>
