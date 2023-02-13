@@ -1,3 +1,11 @@
+# Isabella Muerte(@slurpsmadrips)
+
+- Rust Programmers, if the Rust commuity wants to hide horros, fight to prevent a major catastrophe, and unite humanity so we don't have to feel pain or be alone, that's not language evangelism. That's language evangelionism.
+
+<hr>
+
+<br>
+
 # 윈도우 파웨셀에서 원하는 폴더 강제로 지우기(pwsh.exe) WindowsOS에서
 
 - rm -Force 지우고 싶은 폴더
