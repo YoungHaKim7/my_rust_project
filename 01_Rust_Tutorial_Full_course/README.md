@@ -20,13 +20,13 @@ https://www.rust-lang.org/learn
 
 https://doc.rust-lang.org/book/
 
-# Tutorial Rust 2\_\_\_Easy Rust 스승님 최고 ❤️
+# Tutorial Rust 2\_\_\_Easy Rust (My teacher스승님 최고 ❤️)
 
 <h1>Updating</h1>
 
 2021-12-10 : Rust 기초 강의 시작<br>
 
-> #### Rust 스승님 Git
+> #### Rust (My teacher스승님 Git)
 
 > - https://github.com/Dhghomon/easy_rust/
 
@@ -36,7 +36,7 @@ https://doc.rust-lang.org/book/
 
 <hr>
 
-> - 유튜브 주소(영어 강의)
+> - 유튜브 주소(English Ver.영어 강의)
 > - 1강
 > - https://www.youtube.com/watch?v=-lYeJeQ11OI&list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk&index=1
 
