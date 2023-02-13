@@ -253,6 +253,70 @@ https://google.github.io/comprehensive-rust/std/box.html
 
 <br>
 
+# RustConf 2019 - The Symbiotic Relationship of C++ and Rust by Isabella Muerte
+
+https://youtu.be/YZomx3Jt4Xs
+
+<table border="1">
+    <tr>
+    <td colspan="3" align="center"></a></td>
+    </tr>
+    <tr align="center">
+        <td>✨</td>
+        <td>Rust<a href="https://www.rust-lang.org/"><img align="left" alt="rust1" width="26px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" /></a></td>
+        <td>C++<a href="https://en.cppreference.com/w/"><img align="left" alt="cpp" width="26px" src="https://user-images.githubusercontent.com/67513038/218466731-1c232ee4-7fe7-4c73-a201-c129e16959c2.png" /></a></td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>let</td>
+        <td>auto</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>::<></td>
+        <td>::template <></td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>if let Some(x) = function()<br>{</td>
+        <td>if (auto x = function())<br>{</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>1i64</td>
+        <td>INT64_C(1)(C++20)</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>1i64</td>
+        <td>INT64(C++23)</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>1_000_000</td>
+        <td>1'000'000</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>impl Not for T</td>
+        <td>operator not</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>move</td>
+        <td>relocation</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td>Working Group</td>
+        <td>Study Group</td>
+    </tr>
+</table>
+
+<br>
+
+<hr>
+
 # How I Wrote a Modern C++ Library in Rust
 
 https://hsivonen.fi/modern-cpp-in-rust/
