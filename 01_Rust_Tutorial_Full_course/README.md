@@ -51,6 +51,10 @@ https://github.com/ItFlyingStart/Rust
 
 https://forum.cardano.org/t/haskell-and-rust-mind-map/20212
 
+# Rust Mind Map 2
+
+https://www.aloneguid.uk/posts/2021/01/rust/
+
 # Rust Language Cheast Sheet
 
 https://cheats.rs/
