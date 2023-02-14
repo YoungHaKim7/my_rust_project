@@ -47,6 +47,10 @@
 
 https://github.com/ItFlyingStart/Rust
 
+# Haskell & Rust mind map
+
+https://forum.cardano.org/t/haskell-and-rust-mind-map/20212
+
 # 윈도우 파웨셀에서 원하는 폴더 강제로 지우기(pwsh.exe) WindowsOS에서
 
 - rm -Force 지우고 싶은 폴더
