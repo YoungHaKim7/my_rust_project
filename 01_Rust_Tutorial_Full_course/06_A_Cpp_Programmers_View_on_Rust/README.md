@@ -16,7 +16,7 @@
     <tr align="center">
         <td>Box</td>
         <td>Box<br></td>
-        <td>Boxstd::unique_ptrC++</td>
+        <td>Box<br>std::unique_ptrC++</td>
     </tr>
     <tr align="center">
         <td>Rc</td>
