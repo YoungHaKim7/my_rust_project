@@ -204,6 +204,21 @@ https://ebookfoundation.github.io/free-programming-books/
 
 https://github.com/GuillaumeGomez/tuto-rust-fr
 
+<br>
+
+<hr>
+
+<br>
+
+<hr>
+
+<br>
+
+
+# YouTubeContents_GlobalYoung
+
+https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
+
 # 소유권 규칙
 
 먼저, 소유권에 적용되는 규칙부터 살펴보자. 앞으로 살펴볼 예제들은 이 규칙들을 설명하기 위한 것이므로 잘 기억하도록 하자.
