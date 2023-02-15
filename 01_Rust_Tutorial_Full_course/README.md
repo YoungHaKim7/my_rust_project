@@ -1,43 +1,40 @@
 ![Screenshot 2023-02-13 at 11 35 45 PM](https://user-images.githubusercontent.com/67513038/218490501-f12b971f-363a-45c8-9ea1-4633d40e3364.png)
+
 # Isabella Muerte(@slurpsmadrips) August 1, 2019
 
 - Rust Programmers, if the Rust commuity wants to hide horrors, fight to prevent a major catastrophe, and unite humanity so we don't have to feel pain or be alone, that's not language evangelism. That's language evangelionism.
-
-
 
 # Befor we get stated... Some tips | Ryan Levick
 
 ![1212121212](https://user-images.githubusercontent.com/67513038/218509435-245e1cd7-14a4-4028-a744-8bb599a072ae.jpg)
 
+- Rust Before Main - Ryan Levick - Rust Linz, July 2022
 
-  - Rust Before Main - Ryan Levick - Rust Linz, July 2022
+  - https://youtu.be/q8irLfXwaFM
 
-    - https://youtu.be/q8irLfXwaFM
+- Computers are not magic
 
-  - Computers are not magic
- 
-  - All of this is understandable
- 
-  - Everything you see here was made by humans
- 
-  - It's all a mix of deliberate choice & choice & random circumstance
- 
-  - At any given point, it's not always easy to tell which ?
- 
-  - Unfortunately, explanations are not always the best
- 
-  - 컴퓨터는 마법이 아니다
- 
-  - 이 모든 것은 이해할 수 있다
- 
-  - 여기 보이는 모든 것은 인간이 만든 것이다
- 
-  - 그것은 모두 의도적인 선택과 선택 그리고 무작위적인 상황의 혼합이다
- 
-  - 어느 시점에서든 어느 것이 항상 구별하기 쉽지는 않다?
- 
-  - 불행하게도, 설명이 항상 최선은 아니다
- 
+- All of this is understandable
+
+- Everything you see here was made by humans
+
+- It's all a mix of deliberate choice & choice & random circumstance
+
+- At any given point, it's not always easy to tell which ?
+
+- Unfortunately, explanations are not always the best
+
+- 컴퓨터는 마법이 아니다
+
+- 이 모든 것은 이해할 수 있다
+
+- 여기 보이는 모든 것은 인간이 만든 것이다
+
+- 그것은 모두 의도적인 선택과 선택 그리고 무작위적인 상황의 혼합이다
+
+- 어느 시점에서든 어느 것이 항상 구별하기 쉽지는 않다?
+
+- 불행하게도, 설명이 항상 최선은 아니다
 
 <hr>
 
@@ -232,7 +229,6 @@ https://github.com/GuillaumeGomez/tuto-rust-fr
 
 <br>
 
-
 # YouTubeContents_GlobalYoung
 
 https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung
@@ -398,7 +394,6 @@ Rust소유권 규칙Ownership Rules &Borrowing rules
 
 - https://economiceco.tistory.com/m/8614
 
-          
 # Option (Rustlang)
 
 <table border="1">
@@ -470,8 +465,11 @@ https://youtu.be/OrL0DEChwpQ
 ## Rust's Option❤️in One Figure(내 블로그에 정리)
 
 https://economiceco.tistory.com/m/6140
-          
+
 # ★★★Rust Tutorials 로드맵(Road Map)첫시작!-★★★(총정리)Rustacean이 되어 보자!!Let's go!(내 블로그에 정리)
 
 https://economiceco.tistory.com/8614
 
+# Rust \_\_Unstable - Book
+
+https://doc.rust-lang.org/beta/unstable-book/the-unstable-book.html

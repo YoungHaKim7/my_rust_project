@@ -1,0 +1,5 @@
+/Users/globalyoung/Documents/test/test/test/my_rust_project/01_Rust_Tutorial_Full_course/04_common_newbie_mistakes_in_Rust/02_TypeScript_newbie/coordinate_refactoring1/target/debug/deps/coordinate_refactoring1-036d74a8032d6ef8: src/main.rs
+
+/Users/globalyoung/Documents/test/test/test/my_rust_project/01_Rust_Tutorial_Full_course/04_common_newbie_mistakes_in_Rust/02_TypeScript_newbie/coordinate_refactoring1/target/debug/deps/coordinate_refactoring1-036d74a8032d6ef8.d: src/main.rs
+
+src/main.rs:
