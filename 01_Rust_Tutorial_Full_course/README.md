@@ -108,6 +108,10 @@ https://www.rust-lang.org/learn
 
 https://doc.rust-lang.org/book/
 
+## Experiment: Improving the Rust Book
+
+  - https://rust-book.cs.brown.edu/
+
 # Tutorial Rust \_\_\_Easy Rust (My teacher스승님 최고 ❤️)
 
 <h1>Updating</h1>
