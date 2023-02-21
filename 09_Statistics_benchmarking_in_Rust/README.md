@@ -15,6 +15,10 @@
 
 https://www.lesstif.com/lpt/time-command-line-hyperfine-119963815.html
 
+- hyperfine 은 커맨드 라인용 벤치마킹(benchmarking) 툴입니다.
+
+  - https://github.com/sharkdp/hyperfine
+
 <br>
 
 # Rust_Optimizaion
