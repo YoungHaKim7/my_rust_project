@@ -11,6 +11,12 @@
 
 <br>
 
+# time 을 대체하는 command line 용 성능 측정 도구 hyperfine
+
+https://www.lesstif.com/lpt/time-command-line-hyperfine-119963815.html
+
+<br>
+
 # Rust_Optimizaion
 
 https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1
