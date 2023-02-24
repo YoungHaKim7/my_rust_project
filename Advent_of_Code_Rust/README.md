@@ -17,3 +17,6 @@ https://adventofcode.com/
 
 <br>
 
+# Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more
+
+https://github.com/warycat/rustgym
