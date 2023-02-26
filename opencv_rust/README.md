@@ -10,7 +10,7 @@ https://youtu.be/zcfixnuJFXg
 
 # OpenCV Rust
 
-- OpenCV[![crates.io](https://img.shields.io/crates/v/opencv.svg)](https://crates.io/crates/opencv)![Crates.io](https://img.shields.io/crates/l/dpencv)![druidDownloads](https://img.shields.io/crates/d/dpencv.svg)<a href="https://github.com/twistedfall/opencv-rust"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+- OpenCV[![crates.io](https://img.shields.io/crates/v/opencv.svg)](https://crates.io/crates/opencv)![Crates.io](https://img.shields.io/crates/l/opencv)![druidDownloads](https://img.shields.io/crates/d/opencv.svg)<a href="https://github.com/twistedfall/opencv-rust"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
 ![druidstar](https://img.shields.io/github/stars/twistedfall/opencv-rust.svg)
 
     - Rust bindings for OpenCV 3 & 4
