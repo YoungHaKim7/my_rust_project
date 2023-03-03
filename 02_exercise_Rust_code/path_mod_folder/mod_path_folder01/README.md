@@ -11,3 +11,8 @@ $ cargo run
 I'm growing Asparagus { like: true }
 
 ```
+
+
+# crate modules
+
+https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html
