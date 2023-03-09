@@ -31,6 +31,8 @@
     - eBook
   
       - https://fyrox-book.github.io/introduction.html
+      
+      - example https://fyrox.rs/examples.html
 
   - https://github.com/FyroxEngine/Fyrox
 
