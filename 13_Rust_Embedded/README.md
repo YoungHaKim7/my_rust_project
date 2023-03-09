@@ -19,6 +19,8 @@ https://espressif-trainings.ferrous-systems.com/
   - https://github.com/ferrous-systems/espressif-trainings
   
     - Rust on Espressif chips - 2023 Roadmap
+    
+      - https://mabez.dev/blog/posts/esp-rust-24-02-2023/
   
     - https://esp-rs.github.io/book/introduction.html
 
