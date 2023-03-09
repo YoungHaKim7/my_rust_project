@@ -27,6 +27,10 @@
 - Fyrox[![crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)![fyroxDownloads](https://img.shields.io/crates/d/fyrox.svg)<a href="https://github.com/FyroxEngine/Fyrox"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![fyroxstar](https://img.shields.io/github/stars/FyroxEngine/Fyrox.svg)
 
   - 3D and 2D game engine written in Rust
+  
+    - eBook
+  
+      - https://fyrox-book.github.io/introduction.html
 
   - https://github.com/FyroxEngine/Fyrox
 
