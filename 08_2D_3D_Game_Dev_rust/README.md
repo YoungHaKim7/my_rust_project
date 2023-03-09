@@ -2,6 +2,10 @@
 
 - Ambient[![crates.io](https://img.shields.io/crates/v/ambient_api.svg)](https://crates.io/crates/ambient_api)![License+Bevy](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)![bevyDownloads](https://img.shields.io/crates/d/ambient_api.svg)<a href="https://github.com/AmbientRun/Ambient"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![bevystar](https://img.shields.io/github/stars/AmbientRun/Ambient.svg)
 
+- eBook
+
+  - https://ambientrun.github.io/Ambient/
+
 - https://www.ambient.run/post/introducing-ambient
 
 - https://github.com/AmbientRun/Ambient
