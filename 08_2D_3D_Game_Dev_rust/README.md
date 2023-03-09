@@ -87,11 +87,11 @@
 
   - Rust library to create a Good Game Easily
   
-    - eBook
+    - API Doc
   
-      - https://fyrox-book.
+      - https://docs.rs/ggez/latest/ggez/
       
-      - example htt/examples.html
+      - example https://github.com/ggez/ggez/tree/master/examples
 
   - https://github.com/ggez/ggez
 
