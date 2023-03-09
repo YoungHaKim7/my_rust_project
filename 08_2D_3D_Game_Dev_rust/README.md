@@ -82,6 +82,22 @@
   - https://github.com/gfx-rs/wgpu
 
   - https://wgpu.rs/
+  
+- ggez[![crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)![fyroxDownloads](https://img.shields.io/crates/d/ggez.svg)<a href="https://github.com/ggez/ggez"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![fyroxstar](https://img.shields.io/github/stars/ggez/ggez.svg)
+
+  - Rust library to create a Good Game Easily
+  
+    - eBook
+  
+      - https://fyrox-book.
+      
+      - example htt/examples.html
+
+  - https://github.com/ggez/ggez
+
+  - https://ggez.rs/
+  
+  - https://crates.io/crates/ggez
 
 <br>
 
