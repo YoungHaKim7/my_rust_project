@@ -67,6 +67,10 @@ https://espressif-trainings.ferrous-systems.com/
 - This is Ferrous Systems' Embedded Rust on Espressif training material. It is divided into two workshops: introductory and advanced. The introductory trail will introduce you to basics of embedded development and how to make the embedded board interact with espressif-trainings.ferrous-systems.com
 
   - https://github.com/ferrous-systems/espressif-trainings
+  
+    - Rust on Espressif chips - 2023 Roadmap
+  
+    - https://esp-rs.github.io/book/introduction.html
 
 <br>
 
