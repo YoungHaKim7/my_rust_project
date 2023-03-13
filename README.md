@@ -1,3 +1,9 @@
+# RustMagazine
+
+https://rustmagazine.org
+
+<hr>
+
 # Rust Doc std(standard Library DOC)
 
 https://doc.rust-lang.org/std/
