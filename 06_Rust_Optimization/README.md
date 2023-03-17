@@ -1,3 +1,7 @@
+# Optimizations: the speed size tradeoff
+
+https://docs.rust-embedded.org/book/unsorted/speed-vs-size.html
+
 # The Rust Performance Book
 
 https://nnethercote.github.io/perf-book/
