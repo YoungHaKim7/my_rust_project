@@ -2,6 +2,31 @@
 
 https://docs.rust-embedded.org/book/unsorted/speed-vs-size.html
 
+# pacak/cargo-show-asm
+
+cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
+
+https://github.com/pacak/cargo-show-asm
+
+- Install
+
+```
+$ cargo install cargo-show-asm
+```
+
+- cargo asm
+
+```
+$ cargo asm --lib
+Try one of those
+"<&T as core::fmt::Display>::fmt" [17, 12, 12, 12, 12, 19, 19, 12]
+"<&mut W as core::fmt::Write>::write_char" [20]
+"<&mut W as core::fmt::Write>::write_fmt" [38]
+"<&mut W as core::fmt::Write>::write_str" [90]
+"<F as nom::internal::Parser<I,O,E>>::parse" [263]
+#
+```
+
 # The Rust Performance Book
 
 https://nnethercote.github.io/perf-book/
