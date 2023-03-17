@@ -9,6 +9,8 @@
 
   https://github.com/rust-embedded/cargo-binutils/
 
+  https://crates.io/crates/cargo-binutils
+
   Cargo subcommands to invoke the LLVM tools shipped with the Rust toolchain
 
 # Optimizations: the speed size tradeoff
