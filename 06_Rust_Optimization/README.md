@@ -30,7 +30,8 @@ https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung/tree/main/230317_Rust
 https://crates.io/crates/cargo-binutils
 
 ```
-cargo objdump --release -- --disassemble --no-show-raw-insn | grep -A 10 -B 10 "main"
+$ cargo objdump --release -- --disassemble --no-show-raw-insn | grep -A 10 -B 10 "main"
+
 Finished release [optimized] target(s) in 0.00s
 100002aa8: str xzr, [sp]
 100002aac: adr x8, #196404
