@@ -1,18 +1,15 @@
-# DB
+# LLVM tools(Rust)
 
-- SurrealDB
+- cargo-binutils
 
-  - SurrealDB[![crates.io](https://img.shields.io/crates/v/surrealdb.svg)](https://crates.io/crates/surrealdb)![Crates.io](https://img.shields.io/crates/l/surrealdb)![wasmtimeDownloads](https://img.shields.io/crates/d/surrealdb.svg)<a href="https://github.com/surrealdb/surrealdb.rs"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
-    ![druidstar](https://img.shields.io/github/stars/surrealdb/surrealdb.rs.svg)
+  - cargo-binutils[![crates.io](https://img.shields.io/crates/v/cargo-binutils.svg)](https://crates.io/crates/binutils)![Crates.io](https://img.shields.io/crates/l/binutils)![wasmtimeDownloads](https://img.shields.io/crates/d/cargo-binutils.svg)<a href="https://github.com/rust-embedded/cargo-binutils/"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>
+    ![druidstar](https://img.shields.io/github/stars/rust-embedded/cargo-binutils.svg)
 
-  - <p dir="auto"><a href="https://surrealdb.com/" rel="nofollow">Website</a> | <a href="https://surrealdb.com/docs/start" rel="nofollow">Guides</a> | <a href="https://surrealdb.com/docs" rel="nofollow">API Docs</a> | <a href="https://discord.com/invite/surrealdb" rel="nofollow">Chat</a></p>
+  - <p dir="auto"><a href="https://github.com/rust-embedded/cargo-binutils/" rel="nofollow">Guides</a> | <a href="https://github.com/rust-embedded/cargo-binutils#cargo-binutils" rel="nofollow">API Docs</a></p>
 
-  - https://surrealdb.com/blog
+  https://github.com/rust-embedded/cargo-binutils/
 
-  - https://surrealdb.com/
-
-    SurrealDB makes building and scaling realtime apps dramatically quicker and easier. Get started by installing the server, and jump into our getting started guide to learn how to insert and query data in SurrealDB in minutes.
-
+  Cargo subcommands to invoke the LLVM tools shipped with the Rust toolchain
 
 # Optimizations: the speed size tradeoff
 
@@ -49,25 +46,19 @@ https://nnethercote.github.io/perf-book/
 
 Here are some tips to help you optimize your code and squeeze out every last bit of performance!
 
-
-
 1. To improve performance, you must first understand the performance characteristics of your program. Criterion is a statistics-driven microbenchmarking library that helps you write fast code by detecting and measuring performance improvements or regressions, even small ones, quickly and accurately.
-
 
 2 .Use the #[inline] attribute to hint to the compiler that a function should be inlined. This can help reduce the overhead of function calls, especially for small functions that are called frequently.
 
 3. Avoid using the Box type unless you need to allocate dynamically sized types on the heap. Prefer using stack-allocated types, such as arrays or tuples, whenever possible. For trait object, instead of Box you can typically get away with using &dyn Trait, which also has dynamic dispatch but saves an allocation.
 
-
 4. Use Rust's const and static variables to store values that do not change at runtime. Constants are evaluated at compile-time, while statics are stored in the binary and initialized at runtime. Using these variables can improve the performance of your program by allowing the compiler to optimize them more effectively.
-
 
 <br>
 
-
 <hr>
 
-# Rust Optimization 
+# Rust Optimization
 
 https://gist.github.com/kvark/f067ba974446f7c5ce5bd544fe370186
 
@@ -80,7 +71,6 @@ https://gist.github.com/kvark/f067ba974446f7c5ce5bd544fe370186
 https://youtu.be/2ajos-0OWts
 
 <br>
-
 
 # Installation
 
@@ -131,17 +121,13 @@ open target/criterion/report/index.html
 
 ![1](https://user-images.githubusercontent.com/67513038/223292095-13074f11-4373-41c1-9078-939e2b22b1c0.png)
 
-
 https://github.com/cgcardona/bencher
-
-
 
 # rustc
 
 ```
 rustc -C opt-level=3 --target aarch64-apple-darwin main.rs
 ```
-
 
 ```
 rustc --print target-list
