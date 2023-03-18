@@ -8,7 +8,7 @@ https://rust.godbolt.org/
 -C opt-level=3 --target i686-unknown-linux-gnu
 ```
 
-    - <a href="https://github.com/YoungHaKim7/my_rust_project/tree/main/06_Rust_Optimization#rustc">target list </a>
+>>- <a href="https://github.com/YoungHaKim7/my_rust_project/tree/main/06_Rust_Optimization#rustc">target list </a>
 
 # LLVM tools(Rust)
 
