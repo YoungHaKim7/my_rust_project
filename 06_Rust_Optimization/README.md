@@ -8,7 +8,7 @@ https://rust.godbolt.org/
 -C opt-level=3 --target i686-unknown-linux-gnu
 ```
 
-<a href="https://github.com/rust-embedded/cargo-binutils/">target list </a>
+## <a href="https://github.com/YoungHaKim7/my_rust_project/blob/main/06_Rust_Optimization/README.md#rustc">target list </a>
 
 # LLVM tools(Rust)
 
