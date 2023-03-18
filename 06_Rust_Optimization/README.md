@@ -80,11 +80,11 @@ Finished release [optimized] target(s) in 0.00s
 
 ```
 
-# Optimizations: the speed size tradeoff
+# Optimizations: the speed size tradeoff<a href="https://github.com/YoungHaKim7/my_rust_project/tree/main/06_Rust_Optimization#rust_%EC%9B%B9%EC%9C%BC%EB%A1%9C-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC-%EB%B3%B4%EA%B8%B0assembly">[🔝]</a>
 
 https://docs.rust-embedded.org/book/unsorted/speed-vs-size.html
 
-# pacak/cargo-show-asm
+# pacak/cargo-show-asm<a href="https://github.com/YoungHaKim7/my_rust_project/tree/main/06_Rust_Optimization#rust_%EC%9B%B9%EC%9C%BC%EB%A1%9C-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC-%EB%B3%B4%EA%B8%B0assembly">[🔝]</a>
 
 cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 
@@ -109,7 +109,7 @@ Try one of those
 #
 ```
 
-# The Rust Performance Book
+# The Rust Performance Book<a href="https://github.com/YoungHaKim7/my_rust_project/tree/main/06_Rust_Optimization#rust_%EC%9B%B9%EC%9C%BC%EB%A1%9C-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC-%EB%B3%B4%EA%B8%B0assembly">[🔝]</a>
 
 https://nnethercote.github.io/perf-book/
 
