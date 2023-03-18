@@ -9,6 +9,9 @@ https://rust.godbolt.org/
 ```
 
 >>- <a href="https://github.com/YoungHaKim7/my_rust_project/tree/main/06_Rust_Optimization#rustc">target list </a>
+>>```
+>>$ rustc --print target-list
+>>```
 
 # LLVM tools(Rust)
 
