@@ -1,3 +1,11 @@
+# Rust-Advent
+
+https://github.com/lmammino/rust-advent
+
+- What I learned by solving 50 Advent of Code challenges in Rust - Luciano Mammino | Rust Nation UK
+
+  - https://youtu.be/udHjmno-tfA
+
 # Day1(Advent of Code 2022)
 
 https://fasterthanli.me/series/advent-of-code-2022/part-1
