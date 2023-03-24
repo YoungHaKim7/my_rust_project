@@ -2,6 +2,10 @@
 
 https://rustmagazine.org
 
+# Rust Podcasts
+
+https://changelog.com/topic/rust
+
 <hr>
 
 # Rust Doc std(standard Library DOC)
