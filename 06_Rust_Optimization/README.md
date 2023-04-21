@@ -1,3 +1,7 @@
+# ino's implementation of an error type with tracing functionalities using 100 lines of code
+
+https://zhuanlan.zhihu.com/p/621839043
+
 # rust_웹으로 어셈블리 보기Assembly
 
 https://rust.godbolt.org/
