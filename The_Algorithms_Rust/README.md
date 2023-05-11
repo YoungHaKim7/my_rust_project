@@ -16,6 +16,10 @@ https://youtu.be/V6mKVRU1evU
 
 <br>
 
+- Big O myths busted! (Time complexity is complicated)
+
+  - https://youtu.be/7VHG6Y2QmtM
+
 - Java Algorithms
 
 https://youtube.com/playlist?list=PLGLfVvz_LVvReUrWr94U-ZMgjYTQ538nT
