@@ -1,3 +1,10 @@
+# 선행학습
+
+- 컴퓨터 구조론
+- C언어 기초지식
+
+<hr>
+
 # Rust-embedded eBook
 
 https://docs.rust-embedded.org/book/intro/index.html
