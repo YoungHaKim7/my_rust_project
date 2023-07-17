@@ -1,3 +1,7 @@
+# rust-OS dev.
+
+https://github.com/rust-osdev/about
+
 # blog_os
 
 - https://github.com/phil-opp/blog_os
