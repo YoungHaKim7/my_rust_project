@@ -1,3 +1,8 @@
+# Arc로 vector최적화
+
+https://www.dotnetperls.com/arc-rust
+
+
 # ino's implementation of an error type with tracing functionalities using 100 lines of code
 
 https://zhuanlan.zhihu.com/p/621839043
