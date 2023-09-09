@@ -29,6 +29,10 @@ https://youtu.be/A4cKi7PTJSs
 
 https://github.com/johnthagen/min-sized-rust
 
+#  WASM size 줄이기 
+
+https://rustwasm.github.io/docs/book/reference/code-size.html
+
 <hr>
 
 <hr>
