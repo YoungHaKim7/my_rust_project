@@ -25,6 +25,12 @@ https://youtu.be/A4cKi7PTJSs
 
 <hr>
 
+# Rust 용량 줄이기 
+
+https://github.com/johnthagen/min-sized-rust
+
+<hr>
+
 <hr>
 
 # ino's implementation of an error type with tracing functionalities using 100 lines of code
