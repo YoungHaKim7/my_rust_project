@@ -1,3 +1,106 @@
+# ```cargo size``` ```cargo objdump``` cargo-binutils 필수
+
+https://github.com/rust-embedded/cargo-binutils
+
+```
+cargo size --release -- -A -x
+
+a01_arc_vec_test  :
+section                 size          addr
+__text               0x35114   0x100004684
+__stubs                0x318   0x100039798
+__const               0x54f8   0x100039ab0
+__gcc_except_tab      0x1254   0x10003efa8
+__unwind_info         0x17e4   0x1000401fc
+__eh_frame            0x6620   0x1000419e0
+__got                  0x218   0x100048000
+__const               0x23f8   0x100048218
+__data                   0x8   0x10004c000
+__thread_vars           0xc0   0x10004c008
+__thread_data           0x40   0x10004c0c8
+__thread_bss            0x30   0x10004c108
+__common                0x30   0x10004c138
+__bss                   0xf8   0x10004c168
+Total                0x461ec
+```
+
+
+```
+cargo objdump --release -- --disassemble --no-show-raw-insn | grep -A 10 -B 10 "struct"
+
+
+a01_arc_vec_test:	file format mach-o arm64
+--
+1000047b0:     	adr	x1, #0x3531f
+1000047b4:     	nop
+1000047b8:     	adr	x3, #0x3531c
+1000047bc:     	nop
+1000047c0:     	adr	x6, #0x43ac8
+1000047c4:     	nop
+1000047c8:     	add	x5, sp, #0x8
+1000047cc:     	mov	x0, x8
+1000047d0:     	mov	w2, #0x5
+1000047d4:     	mov	w4, #0x9
+1000047d8:     	bl	0x1000334e0 <_core::fmt::Formatter::debug_struct_field1_finish::h9feb1317ced73764>
+1000047dc:     	ldp	x29, x30, [sp, #0x10]
+1000047e0:     	add	sp, sp, #0x20
+1000047e4:     	ret
+
+00000001000047e8 <_core::ops::function::FnOnce::call_once{{vtable.shim}}::hf03ae713b6ad823f>:
+1000047e8:     	stp	x29, x30, [sp, #-0x10]!
+1000047ec:     	mov	x29, sp
+1000047f0:     	ldr	x0, [x0]
+1000047f4:     	bl	0x100004684 <_std::sys_common::backtrace::__rust_begin_short_backtrace::haf386bf3005ce603>
+1000047f8:     	mov	w0, #0x0
+--
+
+0000000100019e14 <_<std::thread::local::AccessError as core::fmt::Debug>::fmt::h9adc8d104ce6f01c>:
+100019e14:     	sub	sp, sp, #0x20
+100019e18:     	stp	x29, x30, [sp, #0x10]
+100019e1c:     	add	x29, sp, #0x10
+100019e20:     	mov	x0, x1
+100019e24:     	adr	x1, #0x20b79
+100019e28:     	nop
+100019e2c:     	mov	x8, sp
+100019e30:     	mov	w2, #0xb
+100019e34:     	bl	0x1000334a4 <_core::fmt::Formatter::debug_struct::h2f6cbaaaee05ae5e>
+100019e38:     	mov	x0, sp
+100019e3c:     	bl	0x1000322a8 <_core::fmt::builders::DebugStruct::finish::h9214dd7dd9b8fc7d>
+100019e40:     	ldp	x29, x30, [sp, #0x10]
+100019e44:     	add	sp, sp, #0x20
+100019e48:     	ret
+
+0000000100019e4c <_std::thread::current::h8c57325e93f15abb>:
+100019e4c:     	stp	x29, x30, [sp, #-0x10]!
+100019e50:     	mov	x29, sp
+100019e54:     	bl	0x10001deec <_std::sys_common::thread_info::current_thread::h58b97677c85c8371>
+--
+10001a4d4:     	adr	x10, #0x10
+10001a4d8:     	ldrb	w11, [x9, x8]
+10001a4dc:     	add	x10, x10, x11, lsl #2
+10001a4e0:     	br	x10
+10001a4e4:     	adr	x9, #0x208de
+10001a4e8:     	nop
+10001a4ec:     	add	x8, sp, #0x50
+10001a4f0:     	mov	x0, x1
+10001a4f4:     	mov	x1, x9
+10001a4f8:     	mov	w2, #0x5
+10001a4fc:     	bl	0x1000334a4 <_core::fmt::Formatter::debug_struct::h2f6cbaaaee05ae5e>
+10001a500:     	add	x3, x19, #0x10
+10001a504:     	adr	x1, #0x2196c
+10001a508:     	nop
+10001a50c:     	adr	x4, #0x2e4d4
+10001a510:     	nop
+10001a514:     	add	x0, sp, #0x50
+10001a518:     	mov	w2, #0x4
+10001a51c:     	bl	0x1000320f4 <_core::fmt::builders::DebugStruct::field::h2619d07ab9700f9c>
+10001a520:     	adr	x1, #0x2089b
+10001a524:     	nop
+--
+```
+
+<hr>
+
 # Arc로 최적화Optimization ~~~~~
 
 # Arc로 vector최적화
