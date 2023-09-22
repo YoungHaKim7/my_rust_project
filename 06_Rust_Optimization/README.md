@@ -26,6 +26,8 @@ https://youtu.be/A4cKi7PTJSs
 
 - String최적화에 대한 최신글
 https://swatinem.de/blog/optimized-strings/
+  - Rc와 String 최적화
+    - https://wubingzheng.github.io/build-lua-in-rust/en/ch03-01.string_type.html
 
 <hr>
 
