@@ -125,6 +125,10 @@ https://youtu.be/A4cKi7PTJSs
 
   - Implements Deref<[T]>
 
+# 역시 Arc<str>밖에 없나?
+
+- String최적화에 대한 최신글
+https://swatinem.de/blog/optimized-strings/
 
 <hr>
 
