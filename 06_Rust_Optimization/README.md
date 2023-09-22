@@ -1,3 +1,76 @@
+# Arc로 최적화Optimization ~~~~~
+
+# Arc로 vector최적화
+
+https://www.dotnetperls.com/arc-rust
+
+# rust벡터나 c++ 벡터는 stacksize가 24bytes인가요?
+
+-  포인터, 길이, 용량 이렇게 24바이트(64바이트 컴퓨터 기준)
+
+C++ sizeof Vector is 24? https://stackoverflow.com/questions/34024805/c-sizeof-vector-is-24
+
+# Use Arc Instead of Vec
+
+https://youtu.be/A4cKi7PTJSs
+
+- But why?
+
+  - Extremely cheap, O(1) clone
+
+  - Smaller stack size( 16 bytes vs. 24)
+
+  - Implements Deref<[T]>
+
+# 역시 Arc<str>밖에 없나?
+
+- String최적화에 대한 최신글
+https://swatinem.de/blog/optimized-strings/
+
+<hr>
+
+# Rc관련글
+https://wubingzheng.github.io/build-lua-in-rust/en/ch03-01.string_type.html
+
+<hr>
+
+# Rust 용량 줄이기 
+
+https://github.com/johnthagen/min-sized-rust
+
+#  WASM size 줄이기 
+
+https://rustwasm.github.io/docs/book/reference/code-size.html
+
+
+
+<hr>
+
+<hr>
+
+# ino's implementation of an error type with tracing functionalities using 100 lines of code
+
+https://zhuanlan.zhihu.com/p/621839043
+
+# rust_웹으로 어셈블리 보기Assembly
+
+https://rust.godbolt.org/
+
+- 뒤에 최적화 옵션
+
+```
+-C opt-level=3 --target i686-unknown-linux-gnu
+```
+
+>>- <a href="https://github.com/YoungHaKim7/my_rust_project/tree/main/06_Rust_Optimization#rustc">target list </a>
+>>```
+>>$ rustc --print target-list
+>>```
+
+<hr>
+
+<hr>
+
 # ```cargo size``` ```cargo objdump``` cargo-binutils 필수
 
 https://github.com/rust-embedded/cargo-binutils
@@ -101,67 +174,7 @@ a01_arc_vec_test:	file format mach-o arm64
 
 <hr>
 
-# Arc로 최적화Optimization ~~~~~
 
-# Arc로 vector최적화
-
-https://www.dotnetperls.com/arc-rust
-
-# rust벡터나 c++ 벡터는 stacksize가 24bytes인가요?
-
--  포인터, 길이, 용량 이렇게 24바이트(64바이트 컴퓨터 기준)
-
-C++ sizeof Vector is 24? https://stackoverflow.com/questions/34024805/c-sizeof-vector-is-24
-
-# Use Arc Instead of Vec
-
-https://youtu.be/A4cKi7PTJSs
-
-- But why?
-
-  - Extremely cheap, O(1) clone
-
-  - Smaller stack size( 16 bytes vs. 24)
-
-  - Implements Deref<[T]>
-
-# 역시 Arc<str>밖에 없나?
-
-- String최적화에 대한 최신글
-https://swatinem.de/blog/optimized-strings/
-
-<hr>
-
-# Rust 용량 줄이기 
-
-https://github.com/johnthagen/min-sized-rust
-
-#  WASM size 줄이기 
-
-https://rustwasm.github.io/docs/book/reference/code-size.html
-
-<hr>
-
-<hr>
-
-# ino's implementation of an error type with tracing functionalities using 100 lines of code
-
-https://zhuanlan.zhihu.com/p/621839043
-
-# rust_웹으로 어셈블리 보기Assembly
-
-https://rust.godbolt.org/
-
-- 뒤에 최적화 옵션
-
-```
--C opt-level=3 --target i686-unknown-linux-gnu
-```
-
->>- <a href="https://github.com/YoungHaKim7/my_rust_project/tree/main/06_Rust_Optimization#rustc">target list </a>
->>```
->>$ rustc --print target-list
->>```
 
 # LLVM tools(Rust)
 
