@@ -1,3 +1,9 @@
+# an-introduction-to-rust-memory-distribution (러스트 메모리에 대한 글)
+
+https://www.alibabacloud.com/blog/an-introduction-to-rust-memory-distribution_600132
+
+<hr>
+
 # Arc로 최적화Optimization ~~~~~
 
 # Arc로 vector최적화
