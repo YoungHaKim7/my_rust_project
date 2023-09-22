@@ -1,4 +1,4 @@
-# an-introduction-to-rust-memory-distribution (러스트 메모리에 대한 글)
+# An Introduction to Rust Memory Distribution (러스트 메모리에 대한 글)
 
 https://www.alibabacloud.com/blog/an-introduction-to-rust-memory-distribution_600132
 
