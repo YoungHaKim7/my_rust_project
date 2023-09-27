@@ -9,3 +9,8 @@ https://www.cs.brandeis.edu/~cs146a/rust/rustbyexample-02-21-2015/index.html
 https://github.com/rust-lang/rust-by-example
 
 https://doc.rust-lang.org/stable/rust-by-example/
+
+
+# 다른 사람의 Rust 코드 Sample
+
+https://github.com/fwcd/socha-client-rust-2024
