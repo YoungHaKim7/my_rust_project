@@ -4,6 +4,9 @@ https://nikolaivazquez.com/blog/divan/
 
 - github(Divan) https://github.com/nvzqz/divan
 
+- fork 함 없어질까봐 ㅎ
+https://github.com/YoungHaKim7/divan
+
 # rust_ balck_box
 
 https://doc.rust-lang.org/std/hint/fn.black_box.html
