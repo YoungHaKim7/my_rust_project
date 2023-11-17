@@ -1,3 +1,10 @@
+# 컴파일 관련
+
+- How I Improved My Rust Compile Times by 75%
+  - https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent
+
+<hr>
+
 # An Introduction to Rust Memory Distribution (러스트 메모리에 대한 글)
 
 https://www.alibabacloud.com/blog/an-introduction-to-rust-memory-distribution_600132
