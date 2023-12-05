@@ -14,3 +14,6 @@ https://doc.rust-lang.org/stable/rust-by-example/
 # 다른 사람의 Rust 코드 Sample
 
 https://github.com/fwcd/socha-client-rust-2024
+
+- Database
+  - https://github.com/petabi/review-database
