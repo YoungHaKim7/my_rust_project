@@ -17,3 +17,4 @@ https://github.com/fwcd/socha-client-rust-2024
 
 - Database
   - https://github.com/petabi/review-database
+  - 그외에 러스트 코드 좋은거 많다. https://github.com/petabi
