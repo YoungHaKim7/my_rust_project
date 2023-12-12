@@ -5,6 +5,10 @@
 
 <hr>
 
+# Rust std fs slower than Python!? No, it's hardware!
+
+https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/
+
 # An Introduction to Rust Memory Distribution (러스트 메모리에 대한 글)
 
 https://www.alibabacloud.com/blog/an-introduction-to-rust-memory-distribution_600132
