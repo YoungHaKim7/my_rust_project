@@ -10,6 +10,7 @@
 https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/
 
 # James Logan
+- https://jlogan03.github.io/interpn/
 - 2023-11-24: Building a Hypercube Interpolator (in Rust
 <div class="md-typeset__table"><table>
 <thead>
