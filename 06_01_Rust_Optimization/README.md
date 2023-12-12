@@ -9,6 +9,52 @@
 
 https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/
 
+# James Logan
+- 2023-11-24: Building a Hypercube Interpolator (in Rust
+<div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th>Rust</th>
+<th>Python</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Repo</td>
+<td><a href="https://github.com/jlogan03/interpn">interpn</a></td>
+<td><a href="https://github.com/jlogan03/interpnpy">interpnpy</a></td>
+</tr>
+<tr>
+<td>Docs</td>
+<td><a href="https://docs.rs/interpn/latest/interpn/">Docs.rs</a></td>
+<td><a href="https://interpnpy.readthedocs.io/en/latest/">readthedocs w/ mkdocs</a></td>
+</tr>
+<tr>
+<td>Benchmark</td>
+<td>Criterion</td>
+<td>timeit w/ warmup</td>
+</tr>
+<tr>
+<td>Lint</td>
+<td>rustfmt &amp; clippy</td>
+<td>ruff &amp; pyright</td>
+</tr>
+<tr>
+<td>Test</td>
+<td>cargo test</td>
+<td>pytest &amp; mktestdocs</td>
+</tr>
+<tr>
+<td>Release</td>
+<td>release-plz &amp; cargo-semver-checks</td>
+<td>maturin &amp; PyO3</td>
+</tr>
+</tbody>
+</table></div>
+
+<hr>
+
 # An Introduction to Rust Memory Distribution (러스트 메모리에 대한 글)
 
 https://www.alibabacloud.com/blog/an-introduction-to-rust-memory-distribution_600132
