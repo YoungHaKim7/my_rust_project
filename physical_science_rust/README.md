@@ -2,6 +2,9 @@
 
 https://m.blog.naver.com/phy2sci/222829839173
 
+- Rust의 GUI로 그래프와 시뮬레이션(3)
+  - https://m.blog.naver.com/phy2sci/223135342671
+
 <br>
 
 <hr>
