@@ -1,3 +1,9 @@
+# 여기에 정리 예정
+
+- https://github.com/YoungHaKim7/physical_science_rust
+
+<hr>
+
 # Physical_Science_ Rust _Lang
 
 https://m.blog.naver.com/phy2sci/222829839173
