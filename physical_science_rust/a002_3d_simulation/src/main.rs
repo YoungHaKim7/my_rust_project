@@ -1,7 +1,7 @@
 use macroquad::{
     prelude::WHITE,
     shapes::draw_circle,
-    text::{draw_text_ex, load_ttf_font, Font, TextParams},
+    text::{draw_text_ex, load_ttf_font, TextParams},
     window::{next_frame, screen_height, screen_width, Conf},
 };
 use rand::{distributions::Standard, rngs::StdRng, Rng, SeedableRng};
@@ -164,7 +164,7 @@ fn calc_disp_xy(bodies: &mut [Bodies]) -> bool {
 
 fn window_conf() -> Conf {
     Conf {
-        window_title: "만유인력에 의한 항성 운동(LeapFrog 방식 계산결과)".to_owned(),
+        window_title: "만유인력에 의한 항성 운동(LeapFrog 방식 계산결과)Star motion by universal gravitation (the result of the LeapFrog method calculation)".to_owned(),
         window_width: 800,
         window_height: 800,
         ..Default::default()
@@ -174,9 +174,9 @@ fn window_conf() -> Conf {
 #[macroquad::main(window_conf)]
 async fn main() {
     //한글폰트 설정
-    let font = load_ttf_font("../../font/D2Coding-Ver1.3.2-20180524.ttf")
-        .await
-        .unwrap();
+    // let font = load_ttf_font("../../font/D2Coding-Ver1.3.2-20180524.ttf")
+    //     .await
+    //     .unwrap();
 
     //Bodies 초기화
     let mut bodies = [Bodies::new(); NUM_BODIES];
@@ -194,14 +194,14 @@ async fn main() {
         }
         elapsed_time = elapsed_time + D_TIME;
         let elapsed_year: f32 = elapsed_time / 3.154E7;
-        let s = format!("경과시간:      {:.2E}년", elapsed_year);
+        let s = format!("경과시간elapsed_year:      {:.2E}년", elapsed_year);
         draw_text_ex(
             &s,
             400.0,
             70.0,
             TextParams {
                 font_size: 20,
-                font,
+                // font,
                 rotation: 0.02, // 라디안
                 ..Default::default()
             },
@@ -214,14 +214,18 @@ async fn main() {
                 * ((bodies[i].vx).powi(2) + (bodies[i].vy).powi(2)) as f64;
             kinetic_energy = kinetic_energy + ke;
         }
-        let s = format!("운동 에너지 합:      {:.2E} J", kinetic_energy);
+        let s = format!(
+            "운동 에너지 합sum of kinetic energy::      {:.2E} J",
+            kinetic_energy
+        );
         draw_text_ex(
             &s,
             400.0,
             100.0,
             TextParams {
                 font_size: 20,
-                font,
+                // font: Option<&'a Font>,
+                // font,
                 rotation: 0.02, // 라디안
                 ..Default::default()
             },
@@ -242,14 +246,18 @@ async fn main() {
             }
         }
 
-        let s = format!("위치 에너지 합:      {:.2E} J", potential_energy);
+        let s = format!(
+            "위치 에너지 합sum of potential energy:      {:.2E} J",
+            potential_energy
+        );
         draw_text_ex(
             &s,
             400.0,
             130.0,
             TextParams {
                 font_size: 20,
-                font,
+                // font: Option<&'a font>,
+                // font,
                 rotation: 0.02, // 라디안
                 ..Default::default()
             },
